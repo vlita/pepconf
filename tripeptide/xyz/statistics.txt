@@ -1,0 +1,5183 @@
+==> GLH_GLH_GLH_0.xyz <==
+57
+
+==> GLH_GLH_GLH_1.xyz <==
+57
+
+==> GLH_GLH_GLH_2.xyz <==
+57
+
+==> GLH_GLH_GLH_3.xyz <==
+57
+
+==> GLH_GLH_GLH_4.xyz <==
+57
+
+==> GLH_GLH_GLH_5.xyz <==
+57
+
+==> GLH_GLN_GLH_0.xyz <==
+58
+
+==> GLH_GLN_GLH_1.xyz <==
+58
+
+==> GLH_GLN_GLH_2.xyz <==
+58
+
+==> GLH_GLN_GLH_3.xyz <==
+58
+
+==> GLH_GLN_GLH_4.xyz <==
+58
+
+==> GLH_GLN_GLH_5.xyz <==
+58
+
+==> GLH_HIS_GLH_0.xyz <==
+58
+
+==> GLH_HIS_GLH_1.xyz <==
+58
+
+==> GLH_HIS_GLH_2.xyz <==
+58
+
+==> GLH_HIS_GLH_3.xyz <==
+58
+
+==> GLH_HIS_GLH_4.xyz <==
+58
+
+==> GLH_HIS_GLH_5.xyz <==
+58
+
+==> GLH_LEU_GLH_0.xyz <==
+60
+
+==> GLH_LEU_GLH_1.xyz <==
+60
+
+==> GLH_LEU_GLH_2.xyz <==
+60
+
+==> GLH_LEU_GLH_3.xyz <==
+60
+
+==> GLH_LEU_GLH_4.xyz <==
+60
+
+==> GLH_LEU_GLH_5.xyz <==
+60
+
+==> GLH_MET_GLH_0.xyz <==
+58
+
+==> GLH_MET_GLH_1.xyz <==
+58
+
+==> GLH_MET_GLH_2.xyz <==
+58
+
+==> GLH_MET_GLH_3.xyz <==
+58
+
+==> GLH_MET_GLH_4.xyz <==
+58
+
+==> GLH_MET_GLH_5.xyz <==
+58
+
+==> GLH_PRO_GLH_0.xyz <==
+55
+
+==> GLH_PRO_GLH_1.xyz <==
+55
+
+==> GLH_PRO_GLH_2.xyz <==
+55
+
+==> GLH_PRO_GLH_3.xyz <==
+55
+
+==> GLH_PRO_GLH_4.xyz <==
+55
+
+==> GLH_PRO_GLH_5.xyz <==
+55
+
+==> GLH_TRP_GLH_0.xyz <==
+65
+
+==> GLH_TRP_GLH_1.xyz <==
+65
+
+==> GLH_TRP_GLH_2.xyz <==
+65
+
+==> GLH_TRP_GLH_3.xyz <==
+65
+
+==> GLH_TRP_GLH_4.xyz <==
+65
+
+==> GLH_TRP_GLH_5.xyz <==
+65
+
+==> GLH_TYR_GLH_0.xyz <==
+62
+
+==> GLH_TYR_GLH_1.xyz <==
+62
+
+==> GLH_TYR_GLH_2.xyz <==
+62
+
+==> GLH_TYR_GLH_3.xyz <==
+62
+
+==> GLH_TYR_GLH_4.xyz <==
+62
+
+==> GLH_TYR_GLH_5.xyz <==
+62
+
+==> GLN_GLH_GLH_0.xyz <==
+58
+
+==> GLN_GLH_GLH_1.xyz <==
+58
+
+==> GLN_GLH_GLH_2.xyz <==
+58
+
+==> GLN_GLH_GLH_3.xyz <==
+58
+
+==> GLN_GLH_GLH_4.xyz <==
+58
+
+==> GLN_GLH_GLH_5.xyz <==
+58
+
+==> GLN_GLH_GLN_0.xyz <==
+59
+
+==> GLN_GLH_GLN_1.xyz <==
+59
+
+==> GLN_GLH_GLN_2.xyz <==
+59
+
+==> GLN_GLH_GLN_3.xyz <==
+59
+
+==> GLN_GLH_GLN_4.xyz <==
+59
+
+==> GLN_GLH_GLN_5.xyz <==
+59
+
+==> GLN_GLH_HIS_0.xyz <==
+59
+
+==> GLN_GLH_HIS_1.xyz <==
+59
+
+==> GLN_GLH_HIS_2.xyz <==
+59
+
+==> GLN_GLH_HIS_3.xyz <==
+59
+
+==> GLN_GLH_HIS_4.xyz <==
+59
+
+==> GLN_GLH_HIS_5.xyz <==
+59
+
+==> GLN_GLH_MET_0.xyz <==
+59
+
+==> GLN_GLH_MET_1.xyz <==
+59
+
+==> GLN_GLH_MET_2.xyz <==
+59
+
+==> GLN_GLH_MET_3.xyz <==
+59
+
+==> GLN_GLH_MET_4.xyz <==
+59
+
+==> GLN_GLH_MET_5.xyz <==
+59
+
+==> GLN_GLN_GLH_0.xyz <==
+59
+
+==> GLN_GLN_GLH_1.xyz <==
+59
+
+==> GLN_GLN_GLH_2.xyz <==
+59
+
+==> GLN_GLN_GLH_3.xyz <==
+59
+
+==> GLN_GLN_GLH_4.xyz <==
+59
+
+==> GLN_GLN_GLH_5.xyz <==
+59
+
+==> GLN_GLN_GLN_0.xyz <==
+60
+
+==> GLN_GLN_GLN_1.xyz <==
+60
+
+==> GLN_GLN_GLN_2.xyz <==
+60
+
+==> GLN_GLN_GLN_3.xyz <==
+60
+
+==> GLN_GLN_GLN_4.xyz <==
+60
+
+==> GLN_GLN_GLN_5.xyz <==
+60
+
+==> GLN_GLN_HIS_0.xyz <==
+60
+
+==> GLN_GLN_HIS_1.xyz <==
+60
+
+==> GLN_GLN_HIS_2.xyz <==
+60
+
+==> GLN_GLN_HIS_3.xyz <==
+60
+
+==> GLN_GLN_HIS_4.xyz <==
+60
+
+==> GLN_GLN_HIS_5.xyz <==
+60
+
+==> GLN_GLN_MET_0.xyz <==
+60
+
+==> GLN_GLN_MET_1.xyz <==
+60
+
+==> GLN_GLN_MET_2.xyz <==
+60
+
+==> GLN_GLN_MET_3.xyz <==
+60
+
+==> GLN_GLN_MET_4.xyz <==
+60
+
+==> GLN_GLN_MET_5.xyz <==
+60
+
+==> GLN_HIS_GLH_0.xyz <==
+59
+
+==> GLN_HIS_GLH_1.xyz <==
+59
+
+==> GLN_HIS_GLH_2.xyz <==
+59
+
+==> GLN_HIS_GLH_3.xyz <==
+59
+
+==> GLN_HIS_GLH_4.xyz <==
+59
+
+==> GLN_HIS_GLH_5.xyz <==
+59
+
+==> GLN_HIS_GLN_0.xyz <==
+60
+
+==> GLN_HIS_GLN_1.xyz <==
+60
+
+==> GLN_HIS_GLN_2.xyz <==
+60
+
+==> GLN_HIS_GLN_3.xyz <==
+60
+
+==> GLN_HIS_GLN_4.xyz <==
+60
+
+==> GLN_HIS_GLN_5.xyz <==
+60
+
+==> GLN_HIS_HIS_0.xyz <==
+60
+
+==> GLN_HIS_HIS_1.xyz <==
+60
+
+==> GLN_HIS_HIS_2.xyz <==
+60
+
+==> GLN_HIS_HIS_3.xyz <==
+60
+
+==> GLN_HIS_HIS_4.xyz <==
+60
+
+==> GLN_HIS_HIS_5.xyz <==
+60
+
+==> GLN_HIS_MET_0.xyz <==
+60
+
+==> GLN_HIS_MET_1.xyz <==
+60
+
+==> GLN_HIS_MET_2.xyz <==
+60
+
+==> GLN_HIS_MET_3.xyz <==
+60
+
+==> GLN_HIS_MET_4.xyz <==
+60
+
+==> GLN_HIS_MET_5.xyz <==
+60
+
+==> GLN_LEU_GLH_0.xyz <==
+61
+
+==> GLN_LEU_GLH_1.xyz <==
+61
+
+==> GLN_LEU_GLH_2.xyz <==
+61
+
+==> GLN_LEU_GLH_3.xyz <==
+61
+
+==> GLN_LEU_GLH_4.xyz <==
+61
+
+==> GLN_LEU_GLH_5.xyz <==
+61
+
+==> GLN_LEU_GLN_0.xyz <==
+62
+
+==> GLN_LEU_GLN_1.xyz <==
+62
+
+==> GLN_LEU_GLN_2.xyz <==
+62
+
+==> GLN_LEU_GLN_3.xyz <==
+62
+
+==> GLN_LEU_GLN_4.xyz <==
+62
+
+==> GLN_LEU_GLN_5.xyz <==
+62
+
+==> GLN_LEU_HIS_0.xyz <==
+62
+
+==> GLN_LEU_HIS_1.xyz <==
+62
+
+==> GLN_LEU_HIS_2.xyz <==
+62
+
+==> GLN_LEU_HIS_3.xyz <==
+62
+
+==> GLN_LEU_HIS_4.xyz <==
+62
+
+==> GLN_LEU_HIS_5.xyz <==
+62
+
+==> GLN_LEU_MET_0.xyz <==
+62
+
+==> GLN_LEU_MET_1.xyz <==
+62
+
+==> GLN_LEU_MET_2.xyz <==
+62
+
+==> GLN_LEU_MET_3.xyz <==
+62
+
+==> GLN_LEU_MET_4.xyz <==
+62
+
+==> GLN_LEU_MET_5.xyz <==
+62
+
+==> GLN_MET_GLH_0.xyz <==
+59
+
+==> GLN_MET_GLH_1.xyz <==
+59
+
+==> GLN_MET_GLH_2.xyz <==
+59
+
+==> GLN_MET_GLH_3.xyz <==
+59
+
+==> GLN_MET_GLH_4.xyz <==
+59
+
+==> GLN_MET_GLH_5.xyz <==
+59
+
+==> GLN_MET_GLN_0.xyz <==
+60
+
+==> GLN_MET_GLN_1.xyz <==
+60
+
+==> GLN_MET_GLN_2.xyz <==
+60
+
+==> GLN_MET_GLN_3.xyz <==
+60
+
+==> GLN_MET_GLN_4.xyz <==
+60
+
+==> GLN_MET_GLN_5.xyz <==
+60
+
+==> GLN_MET_HIS_0.xyz <==
+60
+
+==> GLN_MET_HIS_1.xyz <==
+60
+
+==> GLN_MET_HIS_2.xyz <==
+60
+
+==> GLN_MET_HIS_3.xyz <==
+60
+
+==> GLN_MET_HIS_4.xyz <==
+60
+
+==> GLN_MET_HIS_5.xyz <==
+60
+
+==> GLN_MET_MET_0.xyz <==
+60
+
+==> GLN_MET_MET_1.xyz <==
+60
+
+==> GLN_MET_MET_2.xyz <==
+60
+
+==> GLN_MET_MET_3.xyz <==
+60
+
+==> GLN_MET_MET_4.xyz <==
+60
+
+==> GLN_MET_MET_5.xyz <==
+60
+
+==> GLN_PRO_GLH_0.xyz <==
+56
+
+==> GLN_PRO_GLH_1.xyz <==
+56
+
+==> GLN_PRO_GLH_2.xyz <==
+56
+
+==> GLN_PRO_GLH_3.xyz <==
+56
+
+==> GLN_PRO_GLH_4.xyz <==
+56
+
+==> GLN_PRO_GLH_5.xyz <==
+56
+
+==> GLN_PRO_GLN_0.xyz <==
+57
+
+==> GLN_PRO_GLN_1.xyz <==
+57
+
+==> GLN_PRO_GLN_2.xyz <==
+57
+
+==> GLN_PRO_GLN_3.xyz <==
+57
+
+==> GLN_PRO_GLN_4.xyz <==
+57
+
+==> GLN_PRO_GLN_5.xyz <==
+57
+
+==> GLN_PRO_HIS_0.xyz <==
+57
+
+==> GLN_PRO_HIS_1.xyz <==
+57
+
+==> GLN_PRO_HIS_2.xyz <==
+57
+
+==> GLN_PRO_HIS_3.xyz <==
+57
+
+==> GLN_PRO_HIS_4.xyz <==
+57
+
+==> GLN_PRO_HIS_5.xyz <==
+57
+
+==> GLN_PRO_MET_0.xyz <==
+57
+
+==> GLN_PRO_MET_1.xyz <==
+57
+
+==> GLN_PRO_MET_2.xyz <==
+57
+
+==> GLN_PRO_MET_3.xyz <==
+57
+
+==> GLN_PRO_MET_4.xyz <==
+57
+
+==> GLN_PRO_MET_5.xyz <==
+57
+
+==> GLN_TRP_GLH_0.xyz <==
+66
+
+==> GLN_TRP_GLH_1.xyz <==
+66
+
+==> GLN_TRP_GLH_2.xyz <==
+66
+
+==> GLN_TRP_GLH_3.xyz <==
+66
+
+==> GLN_TRP_GLH_4.xyz <==
+66
+
+==> GLN_TRP_GLH_5.xyz <==
+66
+
+==> GLN_TRP_GLN_0.xyz <==
+67
+
+==> GLN_TRP_GLN_1.xyz <==
+67
+
+==> GLN_TRP_GLN_2.xyz <==
+67
+
+==> GLN_TRP_GLN_3.xyz <==
+67
+
+==> GLN_TRP_GLN_4.xyz <==
+67
+
+==> GLN_TRP_GLN_5.xyz <==
+67
+
+==> GLN_TRP_HIS_0.xyz <==
+67
+
+==> GLN_TRP_HIS_1.xyz <==
+67
+
+==> GLN_TRP_HIS_2.xyz <==
+67
+
+==> GLN_TRP_HIS_3.xyz <==
+67
+
+==> GLN_TRP_HIS_4.xyz <==
+67
+
+==> GLN_TRP_HIS_5.xyz <==
+67
+
+==> GLN_TRP_MET_0.xyz <==
+67
+
+==> GLN_TRP_MET_1.xyz <==
+67
+
+==> GLN_TRP_MET_2.xyz <==
+67
+
+==> GLN_TRP_MET_3.xyz <==
+67
+
+==> GLN_TRP_MET_4.xyz <==
+67
+
+==> GLN_TRP_MET_5.xyz <==
+67
+
+==> GLN_TYR_GLH_0.xyz <==
+63
+
+==> GLN_TYR_GLH_1.xyz <==
+63
+
+==> GLN_TYR_GLH_2.xyz <==
+63
+
+==> GLN_TYR_GLH_3.xyz <==
+63
+
+==> GLN_TYR_GLH_4.xyz <==
+63
+
+==> GLN_TYR_GLH_5.xyz <==
+63
+
+==> GLN_TYR_GLN_0.xyz <==
+64
+
+==> GLN_TYR_GLN_1.xyz <==
+64
+
+==> GLN_TYR_GLN_2.xyz <==
+64
+
+==> GLN_TYR_GLN_3.xyz <==
+64
+
+==> GLN_TYR_GLN_4.xyz <==
+64
+
+==> GLN_TYR_GLN_5.xyz <==
+64
+
+==> GLN_TYR_HIS_0.xyz <==
+64
+
+==> GLN_TYR_HIS_1.xyz <==
+64
+
+==> GLN_TYR_HIS_2.xyz <==
+64
+
+==> GLN_TYR_HIS_3.xyz <==
+64
+
+==> GLN_TYR_HIS_4.xyz <==
+64
+
+==> GLN_TYR_HIS_5.xyz <==
+64
+
+==> GLN_TYR_MET_0.xyz <==
+64
+
+==> GLN_TYR_MET_1.xyz <==
+64
+
+==> GLN_TYR_MET_2.xyz <==
+64
+
+==> GLN_TYR_MET_3.xyz <==
+64
+
+==> GLN_TYR_MET_4.xyz <==
+64
+
+==> GLN_TYR_MET_5.xyz <==
+64
+
+==> HIS_GLH_GLH_0.xyz <==
+58
+
+==> HIS_GLH_GLH_1.xyz <==
+58
+
+==> HIS_GLH_GLH_2.xyz <==
+58
+
+==> HIS_GLH_GLH_3.xyz <==
+58
+
+==> HIS_GLH_GLH_4.xyz <==
+58
+
+==> HIS_GLH_GLH_5.xyz <==
+58
+
+==> HIS_GLH_HIS_0.xyz <==
+59
+
+==> HIS_GLH_HIS_1.xyz <==
+59
+
+==> HIS_GLH_HIS_2.xyz <==
+59
+
+==> HIS_GLH_HIS_3.xyz <==
+59
+
+==> HIS_GLH_HIS_4.xyz <==
+59
+
+==> HIS_GLH_HIS_5.xyz <==
+59
+
+==> HIS_GLN_GLH_0.xyz <==
+59
+
+==> HIS_GLN_GLH_1.xyz <==
+59
+
+==> HIS_GLN_GLH_2.xyz <==
+59
+
+==> HIS_GLN_GLH_3.xyz <==
+59
+
+==> HIS_GLN_GLH_4.xyz <==
+59
+
+==> HIS_GLN_GLH_5.xyz <==
+59
+
+==> HIS_GLN_HIS_0.xyz <==
+60
+
+==> HIS_GLN_HIS_1.xyz <==
+60
+
+==> HIS_GLN_HIS_2.xyz <==
+60
+
+==> HIS_GLN_HIS_3.xyz <==
+60
+
+==> HIS_GLN_HIS_4.xyz <==
+60
+
+==> HIS_GLN_HIS_5.xyz <==
+60
+
+==> HIS_HIS_GLH_0.xyz <==
+59
+
+==> HIS_HIS_GLH_1.xyz <==
+59
+
+==> HIS_HIS_GLH_2.xyz <==
+59
+
+==> HIS_HIS_GLH_3.xyz <==
+59
+
+==> HIS_HIS_GLH_4.xyz <==
+59
+
+==> HIS_HIS_GLH_5.xyz <==
+59
+
+==> HIS_HIS_HIS_0.xyz <==
+60
+
+==> HIS_HIS_HIS_1.xyz <==
+60
+
+==> HIS_HIS_HIS_2.xyz <==
+60
+
+==> HIS_HIS_HIS_3.xyz <==
+60
+
+==> HIS_HIS_HIS_4.xyz <==
+60
+
+==> HIS_HIS_HIS_5.xyz <==
+60
+
+==> HIS_LEU_GLH_0.xyz <==
+61
+
+==> HIS_LEU_GLH_1.xyz <==
+61
+
+==> HIS_LEU_GLH_2.xyz <==
+61
+
+==> HIS_LEU_GLH_3.xyz <==
+61
+
+==> HIS_LEU_GLH_4.xyz <==
+61
+
+==> HIS_LEU_GLH_5.xyz <==
+61
+
+==> HIS_LEU_HIS_0.xyz <==
+62
+
+==> HIS_LEU_HIS_1.xyz <==
+62
+
+==> HIS_LEU_HIS_2.xyz <==
+62
+
+==> HIS_LEU_HIS_3.xyz <==
+62
+
+==> HIS_LEU_HIS_4.xyz <==
+62
+
+==> HIS_LEU_HIS_5.xyz <==
+62
+
+==> HIS_MET_GLH_0.xyz <==
+59
+
+==> HIS_MET_GLH_1.xyz <==
+59
+
+==> HIS_MET_GLH_2.xyz <==
+59
+
+==> HIS_MET_GLH_3.xyz <==
+59
+
+==> HIS_MET_GLH_4.xyz <==
+59
+
+==> HIS_MET_GLH_5.xyz <==
+59
+
+==> HIS_MET_HIS_0.xyz <==
+60
+
+==> HIS_MET_HIS_1.xyz <==
+60
+
+==> HIS_MET_HIS_2.xyz <==
+60
+
+==> HIS_MET_HIS_3.xyz <==
+60
+
+==> HIS_MET_HIS_4.xyz <==
+60
+
+==> HIS_MET_HIS_5.xyz <==
+60
+
+==> HIS_PRO_GLH_0.xyz <==
+56
+
+==> HIS_PRO_GLH_1.xyz <==
+56
+
+==> HIS_PRO_GLH_2.xyz <==
+56
+
+==> HIS_PRO_GLH_3.xyz <==
+56
+
+==> HIS_PRO_GLH_4.xyz <==
+56
+
+==> HIS_PRO_GLH_5.xyz <==
+56
+
+==> HIS_PRO_HIS_0.xyz <==
+57
+
+==> HIS_PRO_HIS_1.xyz <==
+57
+
+==> HIS_PRO_HIS_2.xyz <==
+57
+
+==> HIS_PRO_HIS_3.xyz <==
+57
+
+==> HIS_PRO_HIS_4.xyz <==
+57
+
+==> HIS_PRO_HIS_5.xyz <==
+57
+
+==> HIS_TRP_GLH_0.xyz <==
+66
+
+==> HIS_TRP_GLH_1.xyz <==
+66
+
+==> HIS_TRP_GLH_2.xyz <==
+66
+
+==> HIS_TRP_GLH_3.xyz <==
+66
+
+==> HIS_TRP_GLH_4.xyz <==
+66
+
+==> HIS_TRP_GLH_5.xyz <==
+66
+
+==> HIS_TRP_HIS_0.xyz <==
+67
+
+==> HIS_TRP_HIS_1.xyz <==
+67
+
+==> HIS_TRP_HIS_2.xyz <==
+67
+
+==> HIS_TRP_HIS_3.xyz <==
+67
+
+==> HIS_TRP_HIS_4.xyz <==
+67
+
+==> HIS_TRP_HIS_5.xyz <==
+67
+
+==> HIS_TYR_GLH_0.xyz <==
+63
+
+==> HIS_TYR_GLH_1.xyz <==
+63
+
+==> HIS_TYR_GLH_2.xyz <==
+63
+
+==> HIS_TYR_GLH_3.xyz <==
+63
+
+==> HIS_TYR_GLH_4.xyz <==
+63
+
+==> HIS_TYR_GLH_5.xyz <==
+63
+
+==> HIS_TYR_HIS_0.xyz <==
+64
+
+==> HIS_TYR_HIS_1.xyz <==
+64
+
+==> HIS_TYR_HIS_2.xyz <==
+64
+
+==> HIS_TYR_HIS_3.xyz <==
+64
+
+==> HIS_TYR_HIS_4.xyz <==
+64
+
+==> HIS_TYR_HIS_5.xyz <==
+64
+
+==> LEU_GLH_GLH_0.xyz <==
+60
+
+==> LEU_GLH_GLH_1.xyz <==
+60
+
+==> LEU_GLH_GLH_2.xyz <==
+60
+
+==> LEU_GLH_GLH_3.xyz <==
+60
+
+==> LEU_GLH_GLH_4.xyz <==
+60
+
+==> LEU_GLH_GLH_5.xyz <==
+60
+
+==> LEU_GLH_GLN_0.xyz <==
+61
+
+==> LEU_GLH_GLN_1.xyz <==
+61
+
+==> LEU_GLH_GLN_2.xyz <==
+61
+
+==> LEU_GLH_GLN_3.xyz <==
+61
+
+==> LEU_GLH_GLN_4.xyz <==
+61
+
+==> LEU_GLH_GLN_5.xyz <==
+61
+
+==> LEU_GLH_HIS_0.xyz <==
+61
+
+==> LEU_GLH_HIS_1.xyz <==
+61
+
+==> LEU_GLH_HIS_2.xyz <==
+61
+
+==> LEU_GLH_HIS_3.xyz <==
+61
+
+==> LEU_GLH_HIS_4.xyz <==
+61
+
+==> LEU_GLH_HIS_5.xyz <==
+61
+
+==> LEU_GLH_LEU_0.xyz <==
+63
+
+==> LEU_GLH_LEU_1.xyz <==
+63
+
+==> LEU_GLH_LEU_2.xyz <==
+63
+
+==> LEU_GLH_LEU_3.xyz <==
+63
+
+==> LEU_GLH_LEU_4.xyz <==
+63
+
+==> LEU_GLH_LEU_5.xyz <==
+63
+
+==> LEU_GLH_MET_0.xyz <==
+61
+
+==> LEU_GLH_MET_1.xyz <==
+61
+
+==> LEU_GLH_MET_2.xyz <==
+61
+
+==> LEU_GLH_MET_3.xyz <==
+61
+
+==> LEU_GLH_MET_4.xyz <==
+61
+
+==> LEU_GLH_MET_5.xyz <==
+61
+
+==> LEU_GLH_PRO_0.xyz <==
+58
+
+==> LEU_GLH_PRO_1.xyz <==
+58
+
+==> LEU_GLH_PRO_2.xyz <==
+58
+
+==> LEU_GLH_PRO_3.xyz <==
+58
+
+==> LEU_GLH_PRO_4.xyz <==
+58
+
+==> LEU_GLH_PRO_5.xyz <==
+58
+
+==> LEU_GLH_TRP_0.xyz <==
+68
+
+==> LEU_GLH_TRP_1.xyz <==
+68
+
+==> LEU_GLH_TRP_2.xyz <==
+68
+
+==> LEU_GLH_TRP_3.xyz <==
+68
+
+==> LEU_GLH_TRP_4.xyz <==
+68
+
+==> LEU_GLH_TRP_5.xyz <==
+68
+
+==> LEU_GLH_TYR_0.xyz <==
+65
+
+==> LEU_GLH_TYR_1.xyz <==
+65
+
+==> LEU_GLH_TYR_2.xyz <==
+65
+
+==> LEU_GLH_TYR_3.xyz <==
+65
+
+==> LEU_GLH_TYR_4.xyz <==
+65
+
+==> LEU_GLH_TYR_5.xyz <==
+65
+
+==> LEU_GLN_GLH_0.xyz <==
+61
+
+==> LEU_GLN_GLH_1.xyz <==
+61
+
+==> LEU_GLN_GLH_2.xyz <==
+61
+
+==> LEU_GLN_GLH_3.xyz <==
+61
+
+==> LEU_GLN_GLH_4.xyz <==
+61
+
+==> LEU_GLN_GLH_5.xyz <==
+61
+
+==> LEU_GLN_GLN_0.xyz <==
+62
+
+==> LEU_GLN_GLN_1.xyz <==
+62
+
+==> LEU_GLN_GLN_2.xyz <==
+62
+
+==> LEU_GLN_GLN_3.xyz <==
+62
+
+==> LEU_GLN_GLN_4.xyz <==
+62
+
+==> LEU_GLN_GLN_5.xyz <==
+62
+
+==> LEU_GLN_HIS_0.xyz <==
+62
+
+==> LEU_GLN_HIS_1.xyz <==
+62
+
+==> LEU_GLN_HIS_2.xyz <==
+62
+
+==> LEU_GLN_HIS_3.xyz <==
+62
+
+==> LEU_GLN_HIS_4.xyz <==
+62
+
+==> LEU_GLN_HIS_5.xyz <==
+62
+
+==> LEU_GLN_LEU_0.xyz <==
+64
+
+==> LEU_GLN_LEU_1.xyz <==
+64
+
+==> LEU_GLN_LEU_2.xyz <==
+64
+
+==> LEU_GLN_LEU_3.xyz <==
+64
+
+==> LEU_GLN_LEU_4.xyz <==
+64
+
+==> LEU_GLN_LEU_5.xyz <==
+64
+
+==> LEU_GLN_MET_0.xyz <==
+62
+
+==> LEU_GLN_MET_1.xyz <==
+62
+
+==> LEU_GLN_MET_2.xyz <==
+62
+
+==> LEU_GLN_MET_3.xyz <==
+62
+
+==> LEU_GLN_MET_4.xyz <==
+62
+
+==> LEU_GLN_MET_5.xyz <==
+62
+
+==> LEU_GLN_PRO_0.xyz <==
+59
+
+==> LEU_GLN_PRO_1.xyz <==
+59
+
+==> LEU_GLN_PRO_2.xyz <==
+59
+
+==> LEU_GLN_PRO_3.xyz <==
+59
+
+==> LEU_GLN_PRO_4.xyz <==
+59
+
+==> LEU_GLN_PRO_5.xyz <==
+59
+
+==> LEU_GLN_TRP_0.xyz <==
+69
+
+==> LEU_GLN_TRP_1.xyz <==
+69
+
+==> LEU_GLN_TRP_2.xyz <==
+69
+
+==> LEU_GLN_TRP_3.xyz <==
+69
+
+==> LEU_GLN_TRP_4.xyz <==
+69
+
+==> LEU_GLN_TRP_5.xyz <==
+69
+
+==> LEU_GLN_TYR_0.xyz <==
+66
+
+==> LEU_GLN_TYR_1.xyz <==
+66
+
+==> LEU_GLN_TYR_2.xyz <==
+66
+
+==> LEU_GLN_TYR_3.xyz <==
+66
+
+==> LEU_GLN_TYR_4.xyz <==
+66
+
+==> LEU_GLN_TYR_5.xyz <==
+66
+
+==> LEU_HIS_GLH_0.xyz <==
+61
+
+==> LEU_HIS_GLH_1.xyz <==
+61
+
+==> LEU_HIS_GLH_2.xyz <==
+61
+
+==> LEU_HIS_GLH_3.xyz <==
+61
+
+==> LEU_HIS_GLH_4.xyz <==
+61
+
+==> LEU_HIS_GLH_5.xyz <==
+61
+
+==> LEU_HIS_GLN_0.xyz <==
+62
+
+==> LEU_HIS_GLN_1.xyz <==
+62
+
+==> LEU_HIS_GLN_2.xyz <==
+62
+
+==> LEU_HIS_GLN_3.xyz <==
+62
+
+==> LEU_HIS_GLN_4.xyz <==
+62
+
+==> LEU_HIS_GLN_5.xyz <==
+62
+
+==> LEU_HIS_HIS_0.xyz <==
+62
+
+==> LEU_HIS_HIS_1.xyz <==
+62
+
+==> LEU_HIS_HIS_2.xyz <==
+62
+
+==> LEU_HIS_HIS_3.xyz <==
+62
+
+==> LEU_HIS_HIS_4.xyz <==
+62
+
+==> LEU_HIS_HIS_5.xyz <==
+62
+
+==> LEU_HIS_LEU_0.xyz <==
+64
+
+==> LEU_HIS_LEU_1.xyz <==
+64
+
+==> LEU_HIS_LEU_2.xyz <==
+64
+
+==> LEU_HIS_LEU_3.xyz <==
+64
+
+==> LEU_HIS_LEU_4.xyz <==
+64
+
+==> LEU_HIS_LEU_5.xyz <==
+64
+
+==> LEU_HIS_MET_0.xyz <==
+62
+
+==> LEU_HIS_MET_1.xyz <==
+62
+
+==> LEU_HIS_MET_2.xyz <==
+62
+
+==> LEU_HIS_MET_3.xyz <==
+62
+
+==> LEU_HIS_MET_4.xyz <==
+62
+
+==> LEU_HIS_MET_5.xyz <==
+62
+
+==> LEU_HIS_PRO_0.xyz <==
+59
+
+==> LEU_HIS_PRO_1.xyz <==
+59
+
+==> LEU_HIS_PRO_2.xyz <==
+59
+
+==> LEU_HIS_PRO_3.xyz <==
+59
+
+==> LEU_HIS_PRO_4.xyz <==
+59
+
+==> LEU_HIS_PRO_5.xyz <==
+59
+
+==> LEU_HIS_TRP_0.xyz <==
+69
+
+==> LEU_HIS_TRP_1.xyz <==
+69
+
+==> LEU_HIS_TRP_2.xyz <==
+69
+
+==> LEU_HIS_TRP_3.xyz <==
+69
+
+==> LEU_HIS_TRP_4.xyz <==
+69
+
+==> LEU_HIS_TRP_5.xyz <==
+69
+
+==> LEU_HIS_TYR_0.xyz <==
+66
+
+==> LEU_HIS_TYR_1.xyz <==
+66
+
+==> LEU_HIS_TYR_2.xyz <==
+66
+
+==> LEU_HIS_TYR_3.xyz <==
+66
+
+==> LEU_HIS_TYR_4.xyz <==
+66
+
+==> LEU_HIS_TYR_5.xyz <==
+66
+
+==> LEU_LEU_GLH_0.xyz <==
+63
+
+==> LEU_LEU_GLH_1.xyz <==
+63
+
+==> LEU_LEU_GLH_2.xyz <==
+63
+
+==> LEU_LEU_GLH_3.xyz <==
+63
+
+==> LEU_LEU_GLH_4.xyz <==
+63
+
+==> LEU_LEU_GLH_5.xyz <==
+63
+
+==> LEU_LEU_GLN_0.xyz <==
+64
+
+==> LEU_LEU_GLN_1.xyz <==
+64
+
+==> LEU_LEU_GLN_2.xyz <==
+64
+
+==> LEU_LEU_GLN_3.xyz <==
+64
+
+==> LEU_LEU_GLN_4.xyz <==
+64
+
+==> LEU_LEU_GLN_5.xyz <==
+64
+
+==> LEU_LEU_HIS_0.xyz <==
+64
+
+==> LEU_LEU_HIS_1.xyz <==
+64
+
+==> LEU_LEU_HIS_2.xyz <==
+64
+
+==> LEU_LEU_HIS_3.xyz <==
+64
+
+==> LEU_LEU_HIS_4.xyz <==
+64
+
+==> LEU_LEU_HIS_5.xyz <==
+64
+
+==> LEU_LEU_LEU_0.xyz <==
+66
+
+==> LEU_LEU_LEU_1.xyz <==
+66
+
+==> LEU_LEU_LEU_2.xyz <==
+66
+
+==> LEU_LEU_LEU_3.xyz <==
+66
+
+==> LEU_LEU_LEU_4.xyz <==
+66
+
+==> LEU_LEU_LEU_5.xyz <==
+66
+
+==> LEU_LEU_MET_0.xyz <==
+64
+
+==> LEU_LEU_MET_1.xyz <==
+64
+
+==> LEU_LEU_MET_2.xyz <==
+64
+
+==> LEU_LEU_MET_3.xyz <==
+64
+
+==> LEU_LEU_MET_4.xyz <==
+64
+
+==> LEU_LEU_MET_5.xyz <==
+64
+
+==> LEU_LEU_PRO_0.xyz <==
+61
+
+==> LEU_LEU_PRO_1.xyz <==
+61
+
+==> LEU_LEU_PRO_2.xyz <==
+61
+
+==> LEU_LEU_PRO_3.xyz <==
+61
+
+==> LEU_LEU_PRO_4.xyz <==
+61
+
+==> LEU_LEU_PRO_5.xyz <==
+61
+
+==> LEU_LEU_TRP_0.xyz <==
+71
+
+==> LEU_LEU_TRP_1.xyz <==
+71
+
+==> LEU_LEU_TRP_2.xyz <==
+71
+
+==> LEU_LEU_TRP_3.xyz <==
+71
+
+==> LEU_LEU_TRP_4.xyz <==
+71
+
+==> LEU_LEU_TRP_5.xyz <==
+71
+
+==> LEU_LEU_TYR_0.xyz <==
+68
+
+==> LEU_LEU_TYR_1.xyz <==
+68
+
+==> LEU_LEU_TYR_2.xyz <==
+68
+
+==> LEU_LEU_TYR_3.xyz <==
+68
+
+==> LEU_LEU_TYR_4.xyz <==
+68
+
+==> LEU_LEU_TYR_5.xyz <==
+68
+
+==> LEU_MET_GLH_0.xyz <==
+61
+
+==> LEU_MET_GLH_1.xyz <==
+61
+
+==> LEU_MET_GLH_2.xyz <==
+61
+
+==> LEU_MET_GLH_3.xyz <==
+61
+
+==> LEU_MET_GLH_4.xyz <==
+61
+
+==> LEU_MET_GLH_5.xyz <==
+61
+
+==> LEU_MET_GLN_0.xyz <==
+62
+
+==> LEU_MET_GLN_1.xyz <==
+62
+
+==> LEU_MET_GLN_2.xyz <==
+62
+
+==> LEU_MET_GLN_3.xyz <==
+62
+
+==> LEU_MET_GLN_4.xyz <==
+62
+
+==> LEU_MET_GLN_5.xyz <==
+62
+
+==> LEU_MET_HIS_0.xyz <==
+62
+
+==> LEU_MET_HIS_1.xyz <==
+62
+
+==> LEU_MET_HIS_2.xyz <==
+62
+
+==> LEU_MET_HIS_3.xyz <==
+62
+
+==> LEU_MET_HIS_4.xyz <==
+62
+
+==> LEU_MET_HIS_5.xyz <==
+62
+
+==> LEU_MET_LEU_0.xyz <==
+64
+
+==> LEU_MET_LEU_1.xyz <==
+64
+
+==> LEU_MET_LEU_2.xyz <==
+64
+
+==> LEU_MET_LEU_3.xyz <==
+64
+
+==> LEU_MET_LEU_4.xyz <==
+64
+
+==> LEU_MET_LEU_5.xyz <==
+64
+
+==> LEU_MET_MET_0.xyz <==
+62
+
+==> LEU_MET_MET_1.xyz <==
+62
+
+==> LEU_MET_MET_2.xyz <==
+62
+
+==> LEU_MET_MET_3.xyz <==
+62
+
+==> LEU_MET_MET_4.xyz <==
+62
+
+==> LEU_MET_MET_5.xyz <==
+62
+
+==> LEU_MET_PRO_0.xyz <==
+59
+
+==> LEU_MET_PRO_1.xyz <==
+59
+
+==> LEU_MET_PRO_2.xyz <==
+59
+
+==> LEU_MET_PRO_3.xyz <==
+59
+
+==> LEU_MET_PRO_4.xyz <==
+59
+
+==> LEU_MET_PRO_5.xyz <==
+59
+
+==> LEU_MET_TRP_0.xyz <==
+69
+
+==> LEU_MET_TRP_1.xyz <==
+69
+
+==> LEU_MET_TRP_2.xyz <==
+69
+
+==> LEU_MET_TRP_3.xyz <==
+69
+
+==> LEU_MET_TRP_4.xyz <==
+69
+
+==> LEU_MET_TRP_5.xyz <==
+69
+
+==> LEU_MET_TYR_0.xyz <==
+66
+
+==> LEU_MET_TYR_1.xyz <==
+66
+
+==> LEU_MET_TYR_2.xyz <==
+66
+
+==> LEU_MET_TYR_3.xyz <==
+66
+
+==> LEU_MET_TYR_4.xyz <==
+66
+
+==> LEU_MET_TYR_5.xyz <==
+66
+
+==> LEU_PRO_GLH_0.xyz <==
+58
+
+==> LEU_PRO_GLH_1.xyz <==
+58
+
+==> LEU_PRO_GLH_2.xyz <==
+58
+
+==> LEU_PRO_GLH_3.xyz <==
+58
+
+==> LEU_PRO_GLH_4.xyz <==
+58
+
+==> LEU_PRO_GLH_5.xyz <==
+58
+
+==> LEU_PRO_GLN_0.xyz <==
+59
+
+==> LEU_PRO_GLN_1.xyz <==
+59
+
+==> LEU_PRO_GLN_2.xyz <==
+59
+
+==> LEU_PRO_GLN_3.xyz <==
+59
+
+==> LEU_PRO_GLN_4.xyz <==
+59
+
+==> LEU_PRO_GLN_5.xyz <==
+59
+
+==> LEU_PRO_HIS_0.xyz <==
+59
+
+==> LEU_PRO_HIS_1.xyz <==
+59
+
+==> LEU_PRO_HIS_2.xyz <==
+59
+
+==> LEU_PRO_HIS_3.xyz <==
+59
+
+==> LEU_PRO_HIS_4.xyz <==
+59
+
+==> LEU_PRO_HIS_5.xyz <==
+59
+
+==> LEU_PRO_LEU_0.xyz <==
+61
+
+==> LEU_PRO_LEU_1.xyz <==
+61
+
+==> LEU_PRO_LEU_2.xyz <==
+61
+
+==> LEU_PRO_LEU_3.xyz <==
+61
+
+==> LEU_PRO_LEU_4.xyz <==
+61
+
+==> LEU_PRO_LEU_5.xyz <==
+61
+
+==> LEU_PRO_MET_0.xyz <==
+59
+
+==> LEU_PRO_MET_1.xyz <==
+59
+
+==> LEU_PRO_MET_2.xyz <==
+59
+
+==> LEU_PRO_MET_3.xyz <==
+59
+
+==> LEU_PRO_MET_4.xyz <==
+59
+
+==> LEU_PRO_MET_5.xyz <==
+59
+
+==> LEU_PRO_PRO_0.xyz <==
+56
+
+==> LEU_PRO_PRO_1.xyz <==
+56
+
+==> LEU_PRO_PRO_2.xyz <==
+56
+
+==> LEU_PRO_PRO_3.xyz <==
+56
+
+==> LEU_PRO_PRO_4.xyz <==
+56
+
+==> LEU_PRO_PRO_5.xyz <==
+56
+
+==> LEU_PRO_TRP_0.xyz <==
+66
+
+==> LEU_PRO_TRP_1.xyz <==
+66
+
+==> LEU_PRO_TRP_2.xyz <==
+66
+
+==> LEU_PRO_TRP_3.xyz <==
+66
+
+==> LEU_PRO_TRP_4.xyz <==
+66
+
+==> LEU_PRO_TRP_5.xyz <==
+66
+
+==> LEU_PRO_TYR_0.xyz <==
+63
+
+==> LEU_PRO_TYR_1.xyz <==
+63
+
+==> LEU_PRO_TYR_2.xyz <==
+63
+
+==> LEU_PRO_TYR_3.xyz <==
+63
+
+==> LEU_PRO_TYR_4.xyz <==
+63
+
+==> LEU_PRO_TYR_5.xyz <==
+63
+
+==> LEU_TRP_GLH_0.xyz <==
+68
+
+==> LEU_TRP_GLH_1.xyz <==
+68
+
+==> LEU_TRP_GLH_2.xyz <==
+68
+
+==> LEU_TRP_GLH_3.xyz <==
+68
+
+==> LEU_TRP_GLH_4.xyz <==
+68
+
+==> LEU_TRP_GLH_5.xyz <==
+68
+
+==> LEU_TRP_GLN_0.xyz <==
+69
+
+==> LEU_TRP_GLN_1.xyz <==
+69
+
+==> LEU_TRP_GLN_2.xyz <==
+69
+
+==> LEU_TRP_GLN_3.xyz <==
+69
+
+==> LEU_TRP_GLN_4.xyz <==
+69
+
+==> LEU_TRP_GLN_5.xyz <==
+69
+
+==> LEU_TRP_HIS_0.xyz <==
+69
+
+==> LEU_TRP_HIS_1.xyz <==
+69
+
+==> LEU_TRP_HIS_2.xyz <==
+69
+
+==> LEU_TRP_HIS_3.xyz <==
+69
+
+==> LEU_TRP_HIS_4.xyz <==
+69
+
+==> LEU_TRP_HIS_5.xyz <==
+69
+
+==> LEU_TRP_LEU_0.xyz <==
+71
+
+==> LEU_TRP_LEU_1.xyz <==
+71
+
+==> LEU_TRP_LEU_2.xyz <==
+71
+
+==> LEU_TRP_LEU_3.xyz <==
+71
+
+==> LEU_TRP_LEU_4.xyz <==
+71
+
+==> LEU_TRP_LEU_5.xyz <==
+71
+
+==> LEU_TRP_MET_0.xyz <==
+69
+
+==> LEU_TRP_MET_1.xyz <==
+69
+
+==> LEU_TRP_MET_2.xyz <==
+69
+
+==> LEU_TRP_MET_3.xyz <==
+69
+
+==> LEU_TRP_MET_4.xyz <==
+69
+
+==> LEU_TRP_MET_5.xyz <==
+69
+
+==> LEU_TRP_PRO_0.xyz <==
+66
+
+==> LEU_TRP_PRO_1.xyz <==
+66
+
+==> LEU_TRP_PRO_2.xyz <==
+66
+
+==> LEU_TRP_PRO_3.xyz <==
+66
+
+==> LEU_TRP_PRO_4.xyz <==
+66
+
+==> LEU_TRP_PRO_5.xyz <==
+66
+
+==> LEU_TRP_TRP_0.xyz <==
+76
+
+==> LEU_TRP_TRP_1.xyz <==
+76
+
+==> LEU_TRP_TRP_2.xyz <==
+76
+
+==> LEU_TRP_TRP_3.xyz <==
+76
+
+==> LEU_TRP_TRP_4.xyz <==
+76
+
+==> LEU_TRP_TRP_5.xyz <==
+76
+
+==> LEU_TRP_TYR_0.xyz <==
+73
+
+==> LEU_TRP_TYR_1.xyz <==
+73
+
+==> LEU_TRP_TYR_2.xyz <==
+73
+
+==> LEU_TRP_TYR_3.xyz <==
+73
+
+==> LEU_TRP_TYR_4.xyz <==
+73
+
+==> LEU_TRP_TYR_5.xyz <==
+73
+
+==> LEU_TYR_GLH_0.xyz <==
+65
+
+==> LEU_TYR_GLH_1.xyz <==
+65
+
+==> LEU_TYR_GLH_2.xyz <==
+65
+
+==> LEU_TYR_GLH_3.xyz <==
+65
+
+==> LEU_TYR_GLH_4.xyz <==
+65
+
+==> LEU_TYR_GLH_5.xyz <==
+65
+
+==> LEU_TYR_GLN_0.xyz <==
+66
+
+==> LEU_TYR_GLN_1.xyz <==
+66
+
+==> LEU_TYR_GLN_2.xyz <==
+66
+
+==> LEU_TYR_GLN_3.xyz <==
+66
+
+==> LEU_TYR_GLN_4.xyz <==
+66
+
+==> LEU_TYR_GLN_5.xyz <==
+66
+
+==> LEU_TYR_HIS_0.xyz <==
+66
+
+==> LEU_TYR_HIS_1.xyz <==
+66
+
+==> LEU_TYR_HIS_2.xyz <==
+66
+
+==> LEU_TYR_HIS_3.xyz <==
+66
+
+==> LEU_TYR_HIS_4.xyz <==
+66
+
+==> LEU_TYR_HIS_5.xyz <==
+66
+
+==> LEU_TYR_LEU_0.xyz <==
+68
+
+==> LEU_TYR_LEU_1.xyz <==
+68
+
+==> LEU_TYR_LEU_2.xyz <==
+68
+
+==> LEU_TYR_LEU_3.xyz <==
+68
+
+==> LEU_TYR_LEU_4.xyz <==
+68
+
+==> LEU_TYR_LEU_5.xyz <==
+68
+
+==> LEU_TYR_MET_0.xyz <==
+66
+
+==> LEU_TYR_MET_1.xyz <==
+66
+
+==> LEU_TYR_MET_2.xyz <==
+66
+
+==> LEU_TYR_MET_3.xyz <==
+66
+
+==> LEU_TYR_MET_4.xyz <==
+66
+
+==> LEU_TYR_MET_5.xyz <==
+66
+
+==> LEU_TYR_PRO_0.xyz <==
+63
+
+==> LEU_TYR_PRO_1.xyz <==
+63
+
+==> LEU_TYR_PRO_2.xyz <==
+63
+
+==> LEU_TYR_PRO_3.xyz <==
+63
+
+==> LEU_TYR_PRO_4.xyz <==
+63
+
+==> LEU_TYR_PRO_5.xyz <==
+63
+
+==> LEU_TYR_TRP_0.xyz <==
+73
+
+==> LEU_TYR_TRP_1.xyz <==
+73
+
+==> LEU_TYR_TRP_2.xyz <==
+73
+
+==> LEU_TYR_TRP_3.xyz <==
+73
+
+==> LEU_TYR_TRP_4.xyz <==
+73
+
+==> LEU_TYR_TRP_5.xyz <==
+73
+
+==> LEU_TYR_TYR_0.xyz <==
+70
+
+==> LEU_TYR_TYR_1.xyz <==
+70
+
+==> LEU_TYR_TYR_2.xyz <==
+70
+
+==> LEU_TYR_TYR_3.xyz <==
+70
+
+==> LEU_TYR_TYR_4.xyz <==
+70
+
+==> LEU_TYR_TYR_5.xyz <==
+70
+
+==> MET_GLH_GLH_0.xyz <==
+58
+
+==> MET_GLH_GLH_1.xyz <==
+58
+
+==> MET_GLH_GLH_2.xyz <==
+58
+
+==> MET_GLH_GLH_3.xyz <==
+58
+
+==> MET_GLH_GLH_4.xyz <==
+58
+
+==> MET_GLH_GLH_5.xyz <==
+58
+
+==> MET_GLH_HIS_0.xyz <==
+59
+
+==> MET_GLH_HIS_1.xyz <==
+59
+
+==> MET_GLH_HIS_2.xyz <==
+59
+
+==> MET_GLH_HIS_3.xyz <==
+59
+
+==> MET_GLH_HIS_4.xyz <==
+59
+
+==> MET_GLH_HIS_5.xyz <==
+59
+
+==> MET_GLH_MET_0.xyz <==
+59
+
+==> MET_GLH_MET_1.xyz <==
+59
+
+==> MET_GLH_MET_2.xyz <==
+59
+
+==> MET_GLH_MET_3.xyz <==
+59
+
+==> MET_GLH_MET_4.xyz <==
+59
+
+==> MET_GLH_MET_5.xyz <==
+59
+
+==> MET_GLN_GLH_0.xyz <==
+59
+
+==> MET_GLN_GLH_1.xyz <==
+59
+
+==> MET_GLN_GLH_2.xyz <==
+59
+
+==> MET_GLN_GLH_3.xyz <==
+59
+
+==> MET_GLN_GLH_4.xyz <==
+59
+
+==> MET_GLN_GLH_5.xyz <==
+59
+
+==> MET_GLN_HIS_0.xyz <==
+60
+
+==> MET_GLN_HIS_1.xyz <==
+60
+
+==> MET_GLN_HIS_2.xyz <==
+60
+
+==> MET_GLN_HIS_3.xyz <==
+60
+
+==> MET_GLN_HIS_4.xyz <==
+60
+
+==> MET_GLN_HIS_5.xyz <==
+60
+
+==> MET_GLN_MET_0.xyz <==
+60
+
+==> MET_GLN_MET_1.xyz <==
+60
+
+==> MET_GLN_MET_2.xyz <==
+60
+
+==> MET_GLN_MET_3.xyz <==
+60
+
+==> MET_GLN_MET_4.xyz <==
+60
+
+==> MET_GLN_MET_5.xyz <==
+60
+
+==> MET_HIS_GLH_0.xyz <==
+59
+
+==> MET_HIS_GLH_1.xyz <==
+59
+
+==> MET_HIS_GLH_2.xyz <==
+59
+
+==> MET_HIS_GLH_3.xyz <==
+59
+
+==> MET_HIS_GLH_4.xyz <==
+59
+
+==> MET_HIS_GLH_5.xyz <==
+59
+
+==> MET_HIS_HIS_0.xyz <==
+60
+
+==> MET_HIS_HIS_1.xyz <==
+60
+
+==> MET_HIS_HIS_2.xyz <==
+60
+
+==> MET_HIS_HIS_3.xyz <==
+60
+
+==> MET_HIS_HIS_4.xyz <==
+60
+
+==> MET_HIS_HIS_5.xyz <==
+60
+
+==> MET_HIS_MET_0.xyz <==
+60
+
+==> MET_HIS_MET_1.xyz <==
+60
+
+==> MET_HIS_MET_2.xyz <==
+60
+
+==> MET_HIS_MET_3.xyz <==
+60
+
+==> MET_HIS_MET_4.xyz <==
+60
+
+==> MET_HIS_MET_5.xyz <==
+60
+
+==> MET_LEU_GLH_0.xyz <==
+61
+
+==> MET_LEU_GLH_1.xyz <==
+61
+
+==> MET_LEU_GLH_2.xyz <==
+61
+
+==> MET_LEU_GLH_3.xyz <==
+61
+
+==> MET_LEU_GLH_4.xyz <==
+61
+
+==> MET_LEU_GLH_5.xyz <==
+61
+
+==> MET_LEU_HIS_0.xyz <==
+62
+
+==> MET_LEU_HIS_1.xyz <==
+62
+
+==> MET_LEU_HIS_2.xyz <==
+62
+
+==> MET_LEU_HIS_3.xyz <==
+62
+
+==> MET_LEU_HIS_4.xyz <==
+62
+
+==> MET_LEU_HIS_5.xyz <==
+62
+
+==> MET_LEU_MET_0.xyz <==
+62
+
+==> MET_LEU_MET_1.xyz <==
+62
+
+==> MET_LEU_MET_2.xyz <==
+62
+
+==> MET_LEU_MET_3.xyz <==
+62
+
+==> MET_LEU_MET_4.xyz <==
+62
+
+==> MET_LEU_MET_5.xyz <==
+62
+
+==> MET_MET_GLH_0.xyz <==
+59
+
+==> MET_MET_GLH_1.xyz <==
+59
+
+==> MET_MET_GLH_2.xyz <==
+59
+
+==> MET_MET_GLH_3.xyz <==
+59
+
+==> MET_MET_GLH_4.xyz <==
+59
+
+==> MET_MET_GLH_5.xyz <==
+59
+
+==> MET_MET_HIS_0.xyz <==
+60
+
+==> MET_MET_HIS_1.xyz <==
+60
+
+==> MET_MET_HIS_2.xyz <==
+60
+
+==> MET_MET_HIS_3.xyz <==
+60
+
+==> MET_MET_HIS_4.xyz <==
+60
+
+==> MET_MET_HIS_5.xyz <==
+60
+
+==> MET_MET_MET_0.xyz <==
+60
+
+==> MET_MET_MET_1.xyz <==
+60
+
+==> MET_MET_MET_2.xyz <==
+60
+
+==> MET_MET_MET_3.xyz <==
+60
+
+==> MET_MET_MET_4.xyz <==
+60
+
+==> MET_MET_MET_5.xyz <==
+60
+
+==> MET_PRO_GLH_0.xyz <==
+56
+
+==> MET_PRO_GLH_1.xyz <==
+56
+
+==> MET_PRO_GLH_2.xyz <==
+56
+
+==> MET_PRO_GLH_3.xyz <==
+56
+
+==> MET_PRO_GLH_4.xyz <==
+56
+
+==> MET_PRO_GLH_5.xyz <==
+56
+
+==> MET_PRO_HIS_0.xyz <==
+57
+
+==> MET_PRO_HIS_1.xyz <==
+57
+
+==> MET_PRO_HIS_2.xyz <==
+57
+
+==> MET_PRO_HIS_3.xyz <==
+57
+
+==> MET_PRO_HIS_4.xyz <==
+57
+
+==> MET_PRO_HIS_5.xyz <==
+57
+
+==> MET_PRO_MET_0.xyz <==
+57
+
+==> MET_PRO_MET_1.xyz <==
+57
+
+==> MET_PRO_MET_2.xyz <==
+57
+
+==> MET_PRO_MET_3.xyz <==
+57
+
+==> MET_PRO_MET_4.xyz <==
+57
+
+==> MET_PRO_MET_5.xyz <==
+57
+
+==> MET_TRP_GLH_0.xyz <==
+66
+
+==> MET_TRP_GLH_1.xyz <==
+66
+
+==> MET_TRP_GLH_2.xyz <==
+66
+
+==> MET_TRP_GLH_3.xyz <==
+66
+
+==> MET_TRP_GLH_4.xyz <==
+66
+
+==> MET_TRP_GLH_5.xyz <==
+66
+
+==> MET_TRP_HIS_0.xyz <==
+67
+
+==> MET_TRP_HIS_1.xyz <==
+67
+
+==> MET_TRP_HIS_2.xyz <==
+67
+
+==> MET_TRP_HIS_3.xyz <==
+67
+
+==> MET_TRP_HIS_4.xyz <==
+67
+
+==> MET_TRP_HIS_5.xyz <==
+67
+
+==> MET_TRP_MET_0.xyz <==
+67
+
+==> MET_TRP_MET_1.xyz <==
+67
+
+==> MET_TRP_MET_2.xyz <==
+67
+
+==> MET_TRP_MET_3.xyz <==
+67
+
+==> MET_TRP_MET_4.xyz <==
+67
+
+==> MET_TRP_MET_5.xyz <==
+67
+
+==> MET_TYR_GLH_0.xyz <==
+63
+
+==> MET_TYR_GLH_1.xyz <==
+63
+
+==> MET_TYR_GLH_2.xyz <==
+63
+
+==> MET_TYR_GLH_3.xyz <==
+63
+
+==> MET_TYR_GLH_4.xyz <==
+63
+
+==> MET_TYR_GLH_5.xyz <==
+63
+
+==> MET_TYR_HIS_0.xyz <==
+64
+
+==> MET_TYR_HIS_1.xyz <==
+64
+
+==> MET_TYR_HIS_2.xyz <==
+64
+
+==> MET_TYR_HIS_3.xyz <==
+64
+
+==> MET_TYR_HIS_4.xyz <==
+64
+
+==> MET_TYR_HIS_5.xyz <==
+64
+
+==> MET_TYR_MET_0.xyz <==
+64
+
+==> MET_TYR_MET_1.xyz <==
+64
+
+==> MET_TYR_MET_2.xyz <==
+64
+
+==> MET_TYR_MET_3.xyz <==
+64
+
+==> MET_TYR_MET_4.xyz <==
+64
+
+==> MET_TYR_MET_5.xyz <==
+64
+
+==> PRO_GLH_GLH_0.xyz <==
+55
+
+==> PRO_GLH_GLH_1.xyz <==
+55
+
+==> PRO_GLH_GLH_2.xyz <==
+55
+
+==> PRO_GLH_GLH_3.xyz <==
+55
+
+==> PRO_GLH_GLH_4.xyz <==
+55
+
+==> PRO_GLH_GLH_5.xyz <==
+55
+
+==> PRO_GLH_GLN_0.xyz <==
+56
+
+==> PRO_GLH_GLN_1.xyz <==
+56
+
+==> PRO_GLH_GLN_2.xyz <==
+56
+
+==> PRO_GLH_GLN_3.xyz <==
+56
+
+==> PRO_GLH_GLN_4.xyz <==
+56
+
+==> PRO_GLH_GLN_5.xyz <==
+56
+
+==> PRO_GLH_HIS_0.xyz <==
+56
+
+==> PRO_GLH_HIS_1.xyz <==
+56
+
+==> PRO_GLH_HIS_2.xyz <==
+56
+
+==> PRO_GLH_HIS_3.xyz <==
+56
+
+==> PRO_GLH_HIS_4.xyz <==
+56
+
+==> PRO_GLH_HIS_5.xyz <==
+56
+
+==> PRO_GLH_MET_0.xyz <==
+56
+
+==> PRO_GLH_MET_1.xyz <==
+56
+
+==> PRO_GLH_MET_2.xyz <==
+56
+
+==> PRO_GLH_MET_3.xyz <==
+56
+
+==> PRO_GLH_MET_4.xyz <==
+56
+
+==> PRO_GLH_MET_5.xyz <==
+56
+
+==> PRO_GLH_PRO_0.xyz <==
+53
+
+==> PRO_GLH_PRO_1.xyz <==
+53
+
+==> PRO_GLH_PRO_2.xyz <==
+53
+
+==> PRO_GLH_PRO_3.xyz <==
+53
+
+==> PRO_GLH_PRO_4.xyz <==
+53
+
+==> PRO_GLH_PRO_5.xyz <==
+53
+
+==> PRO_GLH_TRP_0.xyz <==
+63
+
+==> PRO_GLH_TRP_1.xyz <==
+63
+
+==> PRO_GLH_TRP_2.xyz <==
+63
+
+==> PRO_GLH_TRP_3.xyz <==
+63
+
+==> PRO_GLH_TRP_4.xyz <==
+63
+
+==> PRO_GLH_TRP_5.xyz <==
+63
+
+==> PRO_GLH_TYR_0.xyz <==
+60
+
+==> PRO_GLH_TYR_1.xyz <==
+60
+
+==> PRO_GLH_TYR_2.xyz <==
+60
+
+==> PRO_GLH_TYR_3.xyz <==
+60
+
+==> PRO_GLH_TYR_4.xyz <==
+60
+
+==> PRO_GLH_TYR_5.xyz <==
+60
+
+==> PRO_GLN_GLH_0.xyz <==
+56
+
+==> PRO_GLN_GLH_1.xyz <==
+56
+
+==> PRO_GLN_GLH_2.xyz <==
+56
+
+==> PRO_GLN_GLH_3.xyz <==
+56
+
+==> PRO_GLN_GLH_4.xyz <==
+56
+
+==> PRO_GLN_GLH_5.xyz <==
+56
+
+==> PRO_GLN_GLN_0.xyz <==
+57
+
+==> PRO_GLN_GLN_1.xyz <==
+57
+
+==> PRO_GLN_GLN_2.xyz <==
+57
+
+==> PRO_GLN_GLN_3.xyz <==
+57
+
+==> PRO_GLN_GLN_4.xyz <==
+57
+
+==> PRO_GLN_GLN_5.xyz <==
+57
+
+==> PRO_GLN_HIS_0.xyz <==
+57
+
+==> PRO_GLN_HIS_1.xyz <==
+57
+
+==> PRO_GLN_HIS_2.xyz <==
+57
+
+==> PRO_GLN_HIS_3.xyz <==
+57
+
+==> PRO_GLN_HIS_4.xyz <==
+57
+
+==> PRO_GLN_HIS_5.xyz <==
+57
+
+==> PRO_GLN_MET_0.xyz <==
+57
+
+==> PRO_GLN_MET_1.xyz <==
+57
+
+==> PRO_GLN_MET_2.xyz <==
+57
+
+==> PRO_GLN_MET_3.xyz <==
+57
+
+==> PRO_GLN_MET_4.xyz <==
+57
+
+==> PRO_GLN_MET_5.xyz <==
+57
+
+==> PRO_GLN_PRO_0.xyz <==
+54
+
+==> PRO_GLN_PRO_1.xyz <==
+54
+
+==> PRO_GLN_PRO_2.xyz <==
+54
+
+==> PRO_GLN_PRO_3.xyz <==
+54
+
+==> PRO_GLN_PRO_4.xyz <==
+54
+
+==> PRO_GLN_PRO_5.xyz <==
+54
+
+==> PRO_GLN_TRP_0.xyz <==
+64
+
+==> PRO_GLN_TRP_1.xyz <==
+64
+
+==> PRO_GLN_TRP_2.xyz <==
+64
+
+==> PRO_GLN_TRP_3.xyz <==
+64
+
+==> PRO_GLN_TRP_4.xyz <==
+64
+
+==> PRO_GLN_TRP_5.xyz <==
+64
+
+==> PRO_GLN_TYR_0.xyz <==
+61
+
+==> PRO_GLN_TYR_1.xyz <==
+61
+
+==> PRO_GLN_TYR_2.xyz <==
+61
+
+==> PRO_GLN_TYR_3.xyz <==
+61
+
+==> PRO_GLN_TYR_4.xyz <==
+61
+
+==> PRO_GLN_TYR_5.xyz <==
+61
+
+==> PRO_HIS_GLH_0.xyz <==
+56
+
+==> PRO_HIS_GLH_1.xyz <==
+56
+
+==> PRO_HIS_GLH_2.xyz <==
+56
+
+==> PRO_HIS_GLH_3.xyz <==
+56
+
+==> PRO_HIS_GLH_4.xyz <==
+56
+
+==> PRO_HIS_GLH_5.xyz <==
+56
+
+==> PRO_HIS_GLN_0.xyz <==
+57
+
+==> PRO_HIS_GLN_1.xyz <==
+57
+
+==> PRO_HIS_GLN_2.xyz <==
+57
+
+==> PRO_HIS_GLN_3.xyz <==
+57
+
+==> PRO_HIS_GLN_4.xyz <==
+57
+
+==> PRO_HIS_GLN_5.xyz <==
+57
+
+==> PRO_HIS_HIS_0.xyz <==
+57
+
+==> PRO_HIS_HIS_1.xyz <==
+57
+
+==> PRO_HIS_HIS_2.xyz <==
+57
+
+==> PRO_HIS_HIS_3.xyz <==
+57
+
+==> PRO_HIS_HIS_4.xyz <==
+57
+
+==> PRO_HIS_HIS_5.xyz <==
+57
+
+==> PRO_HIS_MET_0.xyz <==
+57
+
+==> PRO_HIS_MET_1.xyz <==
+57
+
+==> PRO_HIS_MET_2.xyz <==
+57
+
+==> PRO_HIS_MET_3.xyz <==
+57
+
+==> PRO_HIS_MET_4.xyz <==
+57
+
+==> PRO_HIS_MET_5.xyz <==
+57
+
+==> PRO_HIS_PRO_0.xyz <==
+54
+
+==> PRO_HIS_PRO_1.xyz <==
+54
+
+==> PRO_HIS_PRO_2.xyz <==
+54
+
+==> PRO_HIS_PRO_3.xyz <==
+54
+
+==> PRO_HIS_PRO_4.xyz <==
+54
+
+==> PRO_HIS_PRO_5.xyz <==
+54
+
+==> PRO_HIS_TRP_0.xyz <==
+64
+
+==> PRO_HIS_TRP_1.xyz <==
+64
+
+==> PRO_HIS_TRP_2.xyz <==
+64
+
+==> PRO_HIS_TRP_3.xyz <==
+64
+
+==> PRO_HIS_TRP_4.xyz <==
+64
+
+==> PRO_HIS_TRP_5.xyz <==
+64
+
+==> PRO_HIS_TYR_0.xyz <==
+61
+
+==> PRO_HIS_TYR_1.xyz <==
+61
+
+==> PRO_HIS_TYR_2.xyz <==
+61
+
+==> PRO_HIS_TYR_3.xyz <==
+61
+
+==> PRO_HIS_TYR_4.xyz <==
+61
+
+==> PRO_HIS_TYR_5.xyz <==
+61
+
+==> PRO_LEU_GLH_0.xyz <==
+58
+
+==> PRO_LEU_GLH_1.xyz <==
+58
+
+==> PRO_LEU_GLH_2.xyz <==
+58
+
+==> PRO_LEU_GLH_3.xyz <==
+58
+
+==> PRO_LEU_GLH_4.xyz <==
+58
+
+==> PRO_LEU_GLH_5.xyz <==
+58
+
+==> PRO_LEU_GLN_0.xyz <==
+59
+
+==> PRO_LEU_GLN_1.xyz <==
+59
+
+==> PRO_LEU_GLN_2.xyz <==
+59
+
+==> PRO_LEU_GLN_3.xyz <==
+59
+
+==> PRO_LEU_GLN_4.xyz <==
+59
+
+==> PRO_LEU_GLN_5.xyz <==
+59
+
+==> PRO_LEU_HIS_0.xyz <==
+59
+
+==> PRO_LEU_HIS_1.xyz <==
+59
+
+==> PRO_LEU_HIS_2.xyz <==
+59
+
+==> PRO_LEU_HIS_3.xyz <==
+59
+
+==> PRO_LEU_HIS_4.xyz <==
+59
+
+==> PRO_LEU_HIS_5.xyz <==
+59
+
+==> PRO_LEU_MET_0.xyz <==
+59
+
+==> PRO_LEU_MET_1.xyz <==
+59
+
+==> PRO_LEU_MET_2.xyz <==
+59
+
+==> PRO_LEU_MET_3.xyz <==
+59
+
+==> PRO_LEU_MET_4.xyz <==
+59
+
+==> PRO_LEU_MET_5.xyz <==
+59
+
+==> PRO_LEU_PRO_0.xyz <==
+56
+
+==> PRO_LEU_PRO_1.xyz <==
+56
+
+==> PRO_LEU_PRO_2.xyz <==
+56
+
+==> PRO_LEU_PRO_3.xyz <==
+56
+
+==> PRO_LEU_PRO_4.xyz <==
+56
+
+==> PRO_LEU_PRO_5.xyz <==
+56
+
+==> PRO_LEU_TRP_0.xyz <==
+66
+
+==> PRO_LEU_TRP_1.xyz <==
+66
+
+==> PRO_LEU_TRP_2.xyz <==
+66
+
+==> PRO_LEU_TRP_3.xyz <==
+66
+
+==> PRO_LEU_TRP_4.xyz <==
+66
+
+==> PRO_LEU_TRP_5.xyz <==
+66
+
+==> PRO_LEU_TYR_0.xyz <==
+63
+
+==> PRO_LEU_TYR_1.xyz <==
+63
+
+==> PRO_LEU_TYR_2.xyz <==
+63
+
+==> PRO_LEU_TYR_3.xyz <==
+63
+
+==> PRO_LEU_TYR_4.xyz <==
+63
+
+==> PRO_LEU_TYR_5.xyz <==
+63
+
+==> PRO_MET_GLH_0.xyz <==
+56
+
+==> PRO_MET_GLH_1.xyz <==
+56
+
+==> PRO_MET_GLH_2.xyz <==
+56
+
+==> PRO_MET_GLH_3.xyz <==
+56
+
+==> PRO_MET_GLH_4.xyz <==
+56
+
+==> PRO_MET_GLH_5.xyz <==
+56
+
+==> PRO_MET_GLN_0.xyz <==
+57
+
+==> PRO_MET_GLN_1.xyz <==
+57
+
+==> PRO_MET_GLN_2.xyz <==
+57
+
+==> PRO_MET_GLN_3.xyz <==
+57
+
+==> PRO_MET_GLN_4.xyz <==
+57
+
+==> PRO_MET_GLN_5.xyz <==
+57
+
+==> PRO_MET_HIS_0.xyz <==
+57
+
+==> PRO_MET_HIS_1.xyz <==
+57
+
+==> PRO_MET_HIS_2.xyz <==
+57
+
+==> PRO_MET_HIS_3.xyz <==
+57
+
+==> PRO_MET_HIS_4.xyz <==
+57
+
+==> PRO_MET_HIS_5.xyz <==
+57
+
+==> PRO_MET_MET_0.xyz <==
+57
+
+==> PRO_MET_MET_1.xyz <==
+57
+
+==> PRO_MET_MET_2.xyz <==
+57
+
+==> PRO_MET_MET_3.xyz <==
+57
+
+==> PRO_MET_MET_4.xyz <==
+57
+
+==> PRO_MET_MET_5.xyz <==
+57
+
+==> PRO_MET_PRO_0.xyz <==
+54
+
+==> PRO_MET_PRO_1.xyz <==
+54
+
+==> PRO_MET_PRO_2.xyz <==
+54
+
+==> PRO_MET_PRO_3.xyz <==
+54
+
+==> PRO_MET_PRO_4.xyz <==
+54
+
+==> PRO_MET_PRO_5.xyz <==
+54
+
+==> PRO_MET_TRP_0.xyz <==
+64
+
+==> PRO_MET_TRP_1.xyz <==
+64
+
+==> PRO_MET_TRP_2.xyz <==
+64
+
+==> PRO_MET_TRP_3.xyz <==
+64
+
+==> PRO_MET_TRP_4.xyz <==
+64
+
+==> PRO_MET_TRP_5.xyz <==
+64
+
+==> PRO_MET_TYR_0.xyz <==
+61
+
+==> PRO_MET_TYR_1.xyz <==
+61
+
+==> PRO_MET_TYR_2.xyz <==
+61
+
+==> PRO_MET_TYR_3.xyz <==
+61
+
+==> PRO_MET_TYR_4.xyz <==
+61
+
+==> PRO_MET_TYR_5.xyz <==
+61
+
+==> PRO_PRO_GLH_0.xyz <==
+53
+
+==> PRO_PRO_GLH_1.xyz <==
+53
+
+==> PRO_PRO_GLH_2.xyz <==
+53
+
+==> PRO_PRO_GLH_3.xyz <==
+53
+
+==> PRO_PRO_GLH_4.xyz <==
+53
+
+==> PRO_PRO_GLH_5.xyz <==
+53
+
+==> PRO_PRO_GLN_0.xyz <==
+54
+
+==> PRO_PRO_GLN_1.xyz <==
+54
+
+==> PRO_PRO_GLN_2.xyz <==
+54
+
+==> PRO_PRO_GLN_3.xyz <==
+54
+
+==> PRO_PRO_GLN_4.xyz <==
+54
+
+==> PRO_PRO_GLN_5.xyz <==
+54
+
+==> PRO_PRO_HIS_0.xyz <==
+54
+
+==> PRO_PRO_HIS_1.xyz <==
+54
+
+==> PRO_PRO_HIS_2.xyz <==
+54
+
+==> PRO_PRO_HIS_3.xyz <==
+54
+
+==> PRO_PRO_HIS_4.xyz <==
+54
+
+==> PRO_PRO_HIS_5.xyz <==
+54
+
+==> PRO_PRO_MET_0.xyz <==
+54
+
+==> PRO_PRO_MET_1.xyz <==
+54
+
+==> PRO_PRO_MET_2.xyz <==
+54
+
+==> PRO_PRO_MET_3.xyz <==
+54
+
+==> PRO_PRO_MET_4.xyz <==
+54
+
+==> PRO_PRO_MET_5.xyz <==
+54
+
+==> PRO_PRO_PRO_0.xyz <==
+51
+
+==> PRO_PRO_PRO_1.xyz <==
+51
+
+==> PRO_PRO_PRO_2.xyz <==
+51
+
+==> PRO_PRO_PRO_3.xyz <==
+51
+
+==> PRO_PRO_PRO_4.xyz <==
+51
+
+==> PRO_PRO_PRO_5.xyz <==
+51
+
+==> PRO_PRO_TRP_0.xyz <==
+61
+
+==> PRO_PRO_TRP_1.xyz <==
+61
+
+==> PRO_PRO_TRP_2.xyz <==
+61
+
+==> PRO_PRO_TRP_3.xyz <==
+61
+
+==> PRO_PRO_TRP_4.xyz <==
+61
+
+==> PRO_PRO_TRP_5.xyz <==
+61
+
+==> PRO_PRO_TYR_0.xyz <==
+58
+
+==> PRO_PRO_TYR_1.xyz <==
+58
+
+==> PRO_PRO_TYR_2.xyz <==
+58
+
+==> PRO_PRO_TYR_3.xyz <==
+58
+
+==> PRO_PRO_TYR_4.xyz <==
+58
+
+==> PRO_PRO_TYR_5.xyz <==
+58
+
+==> PRO_TRP_GLH_0.xyz <==
+63
+
+==> PRO_TRP_GLH_1.xyz <==
+63
+
+==> PRO_TRP_GLH_2.xyz <==
+63
+
+==> PRO_TRP_GLH_3.xyz <==
+63
+
+==> PRO_TRP_GLH_4.xyz <==
+63
+
+==> PRO_TRP_GLH_5.xyz <==
+63
+
+==> PRO_TRP_GLN_0.xyz <==
+64
+
+==> PRO_TRP_GLN_1.xyz <==
+64
+
+==> PRO_TRP_GLN_2.xyz <==
+64
+
+==> PRO_TRP_GLN_3.xyz <==
+64
+
+==> PRO_TRP_GLN_4.xyz <==
+64
+
+==> PRO_TRP_GLN_5.xyz <==
+64
+
+==> PRO_TRP_HIS_0.xyz <==
+64
+
+==> PRO_TRP_HIS_1.xyz <==
+64
+
+==> PRO_TRP_HIS_2.xyz <==
+64
+
+==> PRO_TRP_HIS_3.xyz <==
+64
+
+==> PRO_TRP_HIS_4.xyz <==
+64
+
+==> PRO_TRP_HIS_5.xyz <==
+64
+
+==> PRO_TRP_MET_0.xyz <==
+64
+
+==> PRO_TRP_MET_1.xyz <==
+64
+
+==> PRO_TRP_MET_2.xyz <==
+64
+
+==> PRO_TRP_MET_3.xyz <==
+64
+
+==> PRO_TRP_MET_4.xyz <==
+64
+
+==> PRO_TRP_MET_5.xyz <==
+64
+
+==> PRO_TRP_PRO_0.xyz <==
+61
+
+==> PRO_TRP_PRO_1.xyz <==
+61
+
+==> PRO_TRP_PRO_2.xyz <==
+61
+
+==> PRO_TRP_PRO_3.xyz <==
+61
+
+==> PRO_TRP_PRO_4.xyz <==
+61
+
+==> PRO_TRP_PRO_5.xyz <==
+61
+
+==> PRO_TRP_TRP_0.xyz <==
+71
+
+==> PRO_TRP_TRP_1.xyz <==
+71
+
+==> PRO_TRP_TRP_2.xyz <==
+71
+
+==> PRO_TRP_TRP_3.xyz <==
+71
+
+==> PRO_TRP_TRP_4.xyz <==
+71
+
+==> PRO_TRP_TRP_5.xyz <==
+71
+
+==> PRO_TRP_TYR_0.xyz <==
+68
+
+==> PRO_TRP_TYR_1.xyz <==
+68
+
+==> PRO_TRP_TYR_2.xyz <==
+68
+
+==> PRO_TRP_TYR_3.xyz <==
+68
+
+==> PRO_TRP_TYR_4.xyz <==
+68
+
+==> PRO_TRP_TYR_5.xyz <==
+68
+
+==> PRO_TYR_GLH_0.xyz <==
+60
+
+==> PRO_TYR_GLH_1.xyz <==
+60
+
+==> PRO_TYR_GLH_2.xyz <==
+60
+
+==> PRO_TYR_GLH_3.xyz <==
+60
+
+==> PRO_TYR_GLH_4.xyz <==
+60
+
+==> PRO_TYR_GLH_5.xyz <==
+60
+
+==> PRO_TYR_GLN_0.xyz <==
+61
+
+==> PRO_TYR_GLN_1.xyz <==
+61
+
+==> PRO_TYR_GLN_2.xyz <==
+61
+
+==> PRO_TYR_GLN_3.xyz <==
+61
+
+==> PRO_TYR_GLN_4.xyz <==
+61
+
+==> PRO_TYR_GLN_5.xyz <==
+61
+
+==> PRO_TYR_HIS_0.xyz <==
+61
+
+==> PRO_TYR_HIS_1.xyz <==
+61
+
+==> PRO_TYR_HIS_2.xyz <==
+61
+
+==> PRO_TYR_HIS_3.xyz <==
+61
+
+==> PRO_TYR_HIS_4.xyz <==
+61
+
+==> PRO_TYR_HIS_5.xyz <==
+61
+
+==> PRO_TYR_MET_0.xyz <==
+61
+
+==> PRO_TYR_MET_1.xyz <==
+61
+
+==> PRO_TYR_MET_2.xyz <==
+61
+
+==> PRO_TYR_MET_3.xyz <==
+61
+
+==> PRO_TYR_MET_4.xyz <==
+61
+
+==> PRO_TYR_MET_5.xyz <==
+61
+
+==> PRO_TYR_PRO_0.xyz <==
+58
+
+==> PRO_TYR_PRO_1.xyz <==
+58
+
+==> PRO_TYR_PRO_2.xyz <==
+58
+
+==> PRO_TYR_PRO_3.xyz <==
+58
+
+==> PRO_TYR_PRO_4.xyz <==
+58
+
+==> PRO_TYR_PRO_5.xyz <==
+58
+
+==> PRO_TYR_TRP_0.xyz <==
+68
+
+==> PRO_TYR_TRP_1.xyz <==
+68
+
+==> PRO_TYR_TRP_2.xyz <==
+68
+
+==> PRO_TYR_TRP_3.xyz <==
+68
+
+==> PRO_TYR_TRP_4.xyz <==
+68
+
+==> PRO_TYR_TRP_5.xyz <==
+68
+
+==> PRO_TYR_TYR_0.xyz <==
+65
+
+==> PRO_TYR_TYR_1.xyz <==
+65
+
+==> PRO_TYR_TYR_2.xyz <==
+65
+
+==> PRO_TYR_TYR_3.xyz <==
+65
+
+==> PRO_TYR_TYR_4.xyz <==
+65
+
+==> PRO_TYR_TYR_5.xyz <==
+65
+
+==> TRP_GLH_GLH_0.xyz <==
+65
+
+==> TRP_GLH_GLH_1.xyz <==
+65
+
+==> TRP_GLH_GLH_2.xyz <==
+65
+
+==> TRP_GLH_GLH_3.xyz <==
+65
+
+==> TRP_GLH_GLH_4.xyz <==
+65
+
+==> TRP_GLH_GLH_5.xyz <==
+65
+
+==> TRP_GLH_GLN_0.xyz <==
+66
+
+==> TRP_GLH_GLN_1.xyz <==
+66
+
+==> TRP_GLH_GLN_2.xyz <==
+66
+
+==> TRP_GLH_GLN_3.xyz <==
+66
+
+==> TRP_GLH_GLN_4.xyz <==
+66
+
+==> TRP_GLH_GLN_5.xyz <==
+66
+
+==> TRP_GLH_HIS_0.xyz <==
+66
+
+==> TRP_GLH_HIS_1.xyz <==
+66
+
+==> TRP_GLH_HIS_2.xyz <==
+66
+
+==> TRP_GLH_HIS_3.xyz <==
+66
+
+==> TRP_GLH_HIS_4.xyz <==
+66
+
+==> TRP_GLH_HIS_5.xyz <==
+66
+
+==> TRP_GLH_MET_0.xyz <==
+66
+
+==> TRP_GLH_MET_1.xyz <==
+66
+
+==> TRP_GLH_MET_2.xyz <==
+66
+
+==> TRP_GLH_MET_3.xyz <==
+66
+
+==> TRP_GLH_MET_4.xyz <==
+66
+
+==> TRP_GLH_MET_5.xyz <==
+66
+
+==> TRP_GLH_TRP_0.xyz <==
+73
+
+==> TRP_GLH_TRP_1.xyz <==
+73
+
+==> TRP_GLH_TRP_2.xyz <==
+73
+
+==> TRP_GLH_TRP_3.xyz <==
+73
+
+==> TRP_GLH_TRP_4.xyz <==
+73
+
+==> TRP_GLH_TRP_5.xyz <==
+73
+
+==> TRP_GLH_TYR_0.xyz <==
+70
+
+==> TRP_GLH_TYR_1.xyz <==
+70
+
+==> TRP_GLH_TYR_2.xyz <==
+70
+
+==> TRP_GLH_TYR_3.xyz <==
+70
+
+==> TRP_GLH_TYR_4.xyz <==
+70
+
+==> TRP_GLH_TYR_5.xyz <==
+70
+
+==> TRP_GLN_GLH_0.xyz <==
+66
+
+==> TRP_GLN_GLH_1.xyz <==
+66
+
+==> TRP_GLN_GLH_2.xyz <==
+66
+
+==> TRP_GLN_GLH_3.xyz <==
+66
+
+==> TRP_GLN_GLH_4.xyz <==
+66
+
+==> TRP_GLN_GLH_5.xyz <==
+66
+
+==> TRP_GLN_GLN_0.xyz <==
+67
+
+==> TRP_GLN_GLN_1.xyz <==
+67
+
+==> TRP_GLN_GLN_2.xyz <==
+67
+
+==> TRP_GLN_GLN_3.xyz <==
+67
+
+==> TRP_GLN_GLN_4.xyz <==
+67
+
+==> TRP_GLN_GLN_5.xyz <==
+67
+
+==> TRP_GLN_HIS_0.xyz <==
+67
+
+==> TRP_GLN_HIS_1.xyz <==
+67
+
+==> TRP_GLN_HIS_2.xyz <==
+67
+
+==> TRP_GLN_HIS_3.xyz <==
+67
+
+==> TRP_GLN_HIS_4.xyz <==
+67
+
+==> TRP_GLN_HIS_5.xyz <==
+67
+
+==> TRP_GLN_MET_0.xyz <==
+67
+
+==> TRP_GLN_MET_1.xyz <==
+67
+
+==> TRP_GLN_MET_2.xyz <==
+67
+
+==> TRP_GLN_MET_3.xyz <==
+67
+
+==> TRP_GLN_MET_4.xyz <==
+67
+
+==> TRP_GLN_MET_5.xyz <==
+67
+
+==> TRP_GLN_TRP_0.xyz <==
+74
+
+==> TRP_GLN_TRP_1.xyz <==
+74
+
+==> TRP_GLN_TRP_2.xyz <==
+74
+
+==> TRP_GLN_TRP_3.xyz <==
+74
+
+==> TRP_GLN_TRP_4.xyz <==
+74
+
+==> TRP_GLN_TRP_5.xyz <==
+74
+
+==> TRP_GLN_TYR_0.xyz <==
+71
+
+==> TRP_GLN_TYR_1.xyz <==
+71
+
+==> TRP_GLN_TYR_2.xyz <==
+71
+
+==> TRP_GLN_TYR_3.xyz <==
+71
+
+==> TRP_GLN_TYR_4.xyz <==
+71
+
+==> TRP_GLN_TYR_5.xyz <==
+71
+
+==> TRP_HIS_GLH_0.xyz <==
+66
+
+==> TRP_HIS_GLH_1.xyz <==
+66
+
+==> TRP_HIS_GLH_2.xyz <==
+66
+
+==> TRP_HIS_GLH_3.xyz <==
+66
+
+==> TRP_HIS_GLH_4.xyz <==
+66
+
+==> TRP_HIS_GLH_5.xyz <==
+66
+
+==> TRP_HIS_GLN_0.xyz <==
+67
+
+==> TRP_HIS_GLN_1.xyz <==
+67
+
+==> TRP_HIS_GLN_2.xyz <==
+67
+
+==> TRP_HIS_GLN_3.xyz <==
+67
+
+==> TRP_HIS_GLN_4.xyz <==
+67
+
+==> TRP_HIS_GLN_5.xyz <==
+67
+
+==> TRP_HIS_HIS_0.xyz <==
+67
+
+==> TRP_HIS_HIS_1.xyz <==
+67
+
+==> TRP_HIS_HIS_2.xyz <==
+67
+
+==> TRP_HIS_HIS_3.xyz <==
+67
+
+==> TRP_HIS_HIS_4.xyz <==
+67
+
+==> TRP_HIS_HIS_5.xyz <==
+67
+
+==> TRP_HIS_MET_0.xyz <==
+67
+
+==> TRP_HIS_MET_1.xyz <==
+67
+
+==> TRP_HIS_MET_2.xyz <==
+67
+
+==> TRP_HIS_MET_3.xyz <==
+67
+
+==> TRP_HIS_MET_4.xyz <==
+67
+
+==> TRP_HIS_MET_5.xyz <==
+67
+
+==> TRP_HIS_TRP_0.xyz <==
+74
+
+==> TRP_HIS_TRP_1.xyz <==
+74
+
+==> TRP_HIS_TRP_2.xyz <==
+74
+
+==> TRP_HIS_TRP_3.xyz <==
+74
+
+==> TRP_HIS_TRP_4.xyz <==
+74
+
+==> TRP_HIS_TRP_5.xyz <==
+74
+
+==> TRP_HIS_TYR_0.xyz <==
+71
+
+==> TRP_HIS_TYR_1.xyz <==
+71
+
+==> TRP_HIS_TYR_2.xyz <==
+71
+
+==> TRP_HIS_TYR_3.xyz <==
+71
+
+==> TRP_HIS_TYR_4.xyz <==
+71
+
+==> TRP_HIS_TYR_5.xyz <==
+71
+
+==> TRP_LEU_GLH_0.xyz <==
+68
+
+==> TRP_LEU_GLH_1.xyz <==
+68
+
+==> TRP_LEU_GLH_2.xyz <==
+68
+
+==> TRP_LEU_GLH_3.xyz <==
+68
+
+==> TRP_LEU_GLH_4.xyz <==
+68
+
+==> TRP_LEU_GLH_5.xyz <==
+68
+
+==> TRP_LEU_GLN_0.xyz <==
+69
+
+==> TRP_LEU_GLN_1.xyz <==
+69
+
+==> TRP_LEU_GLN_2.xyz <==
+69
+
+==> TRP_LEU_GLN_3.xyz <==
+69
+
+==> TRP_LEU_GLN_4.xyz <==
+69
+
+==> TRP_LEU_GLN_5.xyz <==
+69
+
+==> TRP_LEU_HIS_0.xyz <==
+69
+
+==> TRP_LEU_HIS_1.xyz <==
+69
+
+==> TRP_LEU_HIS_2.xyz <==
+69
+
+==> TRP_LEU_HIS_3.xyz <==
+69
+
+==> TRP_LEU_HIS_4.xyz <==
+69
+
+==> TRP_LEU_HIS_5.xyz <==
+69
+
+==> TRP_LEU_MET_0.xyz <==
+69
+
+==> TRP_LEU_MET_1.xyz <==
+69
+
+==> TRP_LEU_MET_2.xyz <==
+69
+
+==> TRP_LEU_MET_3.xyz <==
+69
+
+==> TRP_LEU_MET_4.xyz <==
+69
+
+==> TRP_LEU_MET_5.xyz <==
+69
+
+==> TRP_LEU_TRP_0.xyz <==
+76
+
+==> TRP_LEU_TRP_1.xyz <==
+76
+
+==> TRP_LEU_TRP_2.xyz <==
+76
+
+==> TRP_LEU_TRP_3.xyz <==
+76
+
+==> TRP_LEU_TRP_4.xyz <==
+76
+
+==> TRP_LEU_TRP_5.xyz <==
+76
+
+==> TRP_LEU_TYR_0.xyz <==
+73
+
+==> TRP_LEU_TYR_1.xyz <==
+73
+
+==> TRP_LEU_TYR_2.xyz <==
+73
+
+==> TRP_LEU_TYR_3.xyz <==
+73
+
+==> TRP_LEU_TYR_4.xyz <==
+73
+
+==> TRP_LEU_TYR_5.xyz <==
+73
+
+==> TRP_MET_GLH_0.xyz <==
+66
+
+==> TRP_MET_GLH_1.xyz <==
+66
+
+==> TRP_MET_GLH_2.xyz <==
+66
+
+==> TRP_MET_GLH_3.xyz <==
+66
+
+==> TRP_MET_GLH_4.xyz <==
+66
+
+==> TRP_MET_GLH_5.xyz <==
+66
+
+==> TRP_MET_GLN_0.xyz <==
+67
+
+==> TRP_MET_GLN_1.xyz <==
+67
+
+==> TRP_MET_GLN_2.xyz <==
+67
+
+==> TRP_MET_GLN_3.xyz <==
+67
+
+==> TRP_MET_GLN_4.xyz <==
+67
+
+==> TRP_MET_GLN_5.xyz <==
+67
+
+==> TRP_MET_HIS_0.xyz <==
+67
+
+==> TRP_MET_HIS_1.xyz <==
+67
+
+==> TRP_MET_HIS_2.xyz <==
+67
+
+==> TRP_MET_HIS_3.xyz <==
+67
+
+==> TRP_MET_HIS_4.xyz <==
+67
+
+==> TRP_MET_HIS_5.xyz <==
+67
+
+==> TRP_MET_MET_0.xyz <==
+67
+
+==> TRP_MET_MET_1.xyz <==
+67
+
+==> TRP_MET_MET_2.xyz <==
+67
+
+==> TRP_MET_MET_3.xyz <==
+67
+
+==> TRP_MET_MET_4.xyz <==
+67
+
+==> TRP_MET_MET_5.xyz <==
+67
+
+==> TRP_MET_TRP_0.xyz <==
+74
+
+==> TRP_MET_TRP_1.xyz <==
+74
+
+==> TRP_MET_TRP_2.xyz <==
+74
+
+==> TRP_MET_TRP_3.xyz <==
+74
+
+==> TRP_MET_TRP_4.xyz <==
+74
+
+==> TRP_MET_TRP_5.xyz <==
+74
+
+==> TRP_MET_TYR_0.xyz <==
+71
+
+==> TRP_MET_TYR_1.xyz <==
+71
+
+==> TRP_MET_TYR_2.xyz <==
+71
+
+==> TRP_MET_TYR_3.xyz <==
+71
+
+==> TRP_MET_TYR_4.xyz <==
+71
+
+==> TRP_MET_TYR_5.xyz <==
+71
+
+==> TRP_PRO_GLH_0.xyz <==
+63
+
+==> TRP_PRO_GLH_1.xyz <==
+63
+
+==> TRP_PRO_GLH_2.xyz <==
+63
+
+==> TRP_PRO_GLH_3.xyz <==
+63
+
+==> TRP_PRO_GLH_4.xyz <==
+63
+
+==> TRP_PRO_GLH_5.xyz <==
+63
+
+==> TRP_PRO_GLN_0.xyz <==
+64
+
+==> TRP_PRO_GLN_1.xyz <==
+64
+
+==> TRP_PRO_GLN_2.xyz <==
+64
+
+==> TRP_PRO_GLN_3.xyz <==
+64
+
+==> TRP_PRO_GLN_4.xyz <==
+64
+
+==> TRP_PRO_GLN_5.xyz <==
+64
+
+==> TRP_PRO_HIS_0.xyz <==
+64
+
+==> TRP_PRO_HIS_1.xyz <==
+64
+
+==> TRP_PRO_HIS_2.xyz <==
+64
+
+==> TRP_PRO_HIS_3.xyz <==
+64
+
+==> TRP_PRO_HIS_4.xyz <==
+64
+
+==> TRP_PRO_HIS_5.xyz <==
+64
+
+==> TRP_PRO_MET_0.xyz <==
+64
+
+==> TRP_PRO_MET_1.xyz <==
+64
+
+==> TRP_PRO_MET_2.xyz <==
+64
+
+==> TRP_PRO_MET_3.xyz <==
+64
+
+==> TRP_PRO_MET_4.xyz <==
+64
+
+==> TRP_PRO_MET_5.xyz <==
+64
+
+==> TRP_PRO_TRP_0.xyz <==
+71
+
+==> TRP_PRO_TRP_1.xyz <==
+71
+
+==> TRP_PRO_TRP_2.xyz <==
+71
+
+==> TRP_PRO_TRP_3.xyz <==
+71
+
+==> TRP_PRO_TRP_4.xyz <==
+71
+
+==> TRP_PRO_TRP_5.xyz <==
+71
+
+==> TRP_PRO_TYR_0.xyz <==
+68
+
+==> TRP_PRO_TYR_1.xyz <==
+68
+
+==> TRP_PRO_TYR_2.xyz <==
+68
+
+==> TRP_PRO_TYR_3.xyz <==
+68
+
+==> TRP_PRO_TYR_4.xyz <==
+68
+
+==> TRP_PRO_TYR_5.xyz <==
+68
+
+==> TRP_TRP_GLH_0.xyz <==
+73
+
+==> TRP_TRP_GLH_1.xyz <==
+73
+
+==> TRP_TRP_GLH_2.xyz <==
+73
+
+==> TRP_TRP_GLH_3.xyz <==
+73
+
+==> TRP_TRP_GLH_4.xyz <==
+73
+
+==> TRP_TRP_GLH_5.xyz <==
+73
+
+==> TRP_TRP_GLN_0.xyz <==
+74
+
+==> TRP_TRP_GLN_1.xyz <==
+74
+
+==> TRP_TRP_GLN_2.xyz <==
+74
+
+==> TRP_TRP_GLN_3.xyz <==
+74
+
+==> TRP_TRP_GLN_4.xyz <==
+74
+
+==> TRP_TRP_GLN_5.xyz <==
+74
+
+==> TRP_TRP_HIS_0.xyz <==
+74
+
+==> TRP_TRP_HIS_1.xyz <==
+74
+
+==> TRP_TRP_HIS_2.xyz <==
+74
+
+==> TRP_TRP_HIS_3.xyz <==
+74
+
+==> TRP_TRP_HIS_4.xyz <==
+74
+
+==> TRP_TRP_HIS_5.xyz <==
+74
+
+==> TRP_TRP_MET_0.xyz <==
+74
+
+==> TRP_TRP_MET_1.xyz <==
+74
+
+==> TRP_TRP_MET_2.xyz <==
+74
+
+==> TRP_TRP_MET_3.xyz <==
+74
+
+==> TRP_TRP_MET_4.xyz <==
+74
+
+==> TRP_TRP_MET_5.xyz <==
+74
+
+==> TRP_TRP_TRP_0.xyz <==
+81
+
+==> TRP_TRP_TRP_1.xyz <==
+81
+
+==> TRP_TRP_TRP_2.xyz <==
+81
+
+==> TRP_TRP_TRP_3.xyz <==
+81
+
+==> TRP_TRP_TRP_4.xyz <==
+81
+
+==> TRP_TRP_TRP_5.xyz <==
+81
+
+==> TRP_TRP_TYR_0.xyz <==
+78
+
+==> TRP_TRP_TYR_1.xyz <==
+78
+
+==> TRP_TRP_TYR_2.xyz <==
+78
+
+==> TRP_TRP_TYR_3.xyz <==
+78
+
+==> TRP_TRP_TYR_4.xyz <==
+78
+
+==> TRP_TRP_TYR_5.xyz <==
+78
+
+==> TRP_TYR_GLH_0.xyz <==
+70
+
+==> TRP_TYR_GLH_1.xyz <==
+70
+
+==> TRP_TYR_GLH_2.xyz <==
+70
+
+==> TRP_TYR_GLH_3.xyz <==
+70
+
+==> TRP_TYR_GLH_4.xyz <==
+70
+
+==> TRP_TYR_GLH_5.xyz <==
+70
+
+==> TRP_TYR_GLN_0.xyz <==
+71
+
+==> TRP_TYR_GLN_1.xyz <==
+71
+
+==> TRP_TYR_GLN_2.xyz <==
+71
+
+==> TRP_TYR_GLN_3.xyz <==
+71
+
+==> TRP_TYR_GLN_4.xyz <==
+71
+
+==> TRP_TYR_GLN_5.xyz <==
+71
+
+==> TRP_TYR_HIS_0.xyz <==
+71
+
+==> TRP_TYR_HIS_1.xyz <==
+71
+
+==> TRP_TYR_HIS_2.xyz <==
+71
+
+==> TRP_TYR_HIS_3.xyz <==
+71
+
+==> TRP_TYR_HIS_4.xyz <==
+71
+
+==> TRP_TYR_HIS_5.xyz <==
+71
+
+==> TRP_TYR_MET_0.xyz <==
+71
+
+==> TRP_TYR_MET_1.xyz <==
+71
+
+==> TRP_TYR_MET_2.xyz <==
+71
+
+==> TRP_TYR_MET_3.xyz <==
+71
+
+==> TRP_TYR_MET_4.xyz <==
+71
+
+==> TRP_TYR_MET_5.xyz <==
+71
+
+==> TRP_TYR_TRP_0.xyz <==
+78
+
+==> TRP_TYR_TRP_1.xyz <==
+78
+
+==> TRP_TYR_TRP_2.xyz <==
+78
+
+==> TRP_TYR_TRP_3.xyz <==
+78
+
+==> TRP_TYR_TRP_4.xyz <==
+78
+
+==> TRP_TYR_TRP_5.xyz <==
+78
+
+==> TRP_TYR_TYR_0.xyz <==
+75
+
+==> TRP_TYR_TYR_1.xyz <==
+75
+
+==> TRP_TYR_TYR_2.xyz <==
+75
+
+==> TRP_TYR_TYR_3.xyz <==
+75
+
+==> TRP_TYR_TYR_4.xyz <==
+75
+
+==> TRP_TYR_TYR_5.xyz <==
+75
+
+==> TYR_GLH_GLH_0.xyz <==
+62
+
+==> TYR_GLH_GLH_1.xyz <==
+62
+
+==> TYR_GLH_GLH_2.xyz <==
+62
+
+==> TYR_GLH_GLH_3.xyz <==
+62
+
+==> TYR_GLH_GLH_4.xyz <==
+62
+
+==> TYR_GLH_GLH_5.xyz <==
+62
+
+==> TYR_GLH_GLN_0.xyz <==
+63
+
+==> TYR_GLH_GLN_1.xyz <==
+63
+
+==> TYR_GLH_GLN_2.xyz <==
+63
+
+==> TYR_GLH_GLN_3.xyz <==
+63
+
+==> TYR_GLH_GLN_4.xyz <==
+63
+
+==> TYR_GLH_GLN_5.xyz <==
+63
+
+==> TYR_GLH_HIS_0.xyz <==
+63
+
+==> TYR_GLH_HIS_1.xyz <==
+63
+
+==> TYR_GLH_HIS_2.xyz <==
+63
+
+==> TYR_GLH_HIS_3.xyz <==
+63
+
+==> TYR_GLH_HIS_4.xyz <==
+63
+
+==> TYR_GLH_HIS_5.xyz <==
+63
+
+==> TYR_GLH_MET_0.xyz <==
+63
+
+==> TYR_GLH_MET_1.xyz <==
+63
+
+==> TYR_GLH_MET_2.xyz <==
+63
+
+==> TYR_GLH_MET_3.xyz <==
+63
+
+==> TYR_GLH_MET_4.xyz <==
+63
+
+==> TYR_GLH_MET_5.xyz <==
+63
+
+==> TYR_GLH_TYR_0.xyz <==
+67
+
+==> TYR_GLH_TYR_1.xyz <==
+67
+
+==> TYR_GLH_TYR_2.xyz <==
+67
+
+==> TYR_GLH_TYR_3.xyz <==
+67
+
+==> TYR_GLH_TYR_4.xyz <==
+67
+
+==> TYR_GLH_TYR_5.xyz <==
+67
+
+==> TYR_GLN_GLH_0.xyz <==
+63
+
+==> TYR_GLN_GLH_1.xyz <==
+63
+
+==> TYR_GLN_GLH_2.xyz <==
+63
+
+==> TYR_GLN_GLH_3.xyz <==
+63
+
+==> TYR_GLN_GLH_4.xyz <==
+63
+
+==> TYR_GLN_GLH_5.xyz <==
+63
+
+==> TYR_GLN_GLN_0.xyz <==
+64
+
+==> TYR_GLN_GLN_1.xyz <==
+64
+
+==> TYR_GLN_GLN_2.xyz <==
+64
+
+==> TYR_GLN_GLN_3.xyz <==
+64
+
+==> TYR_GLN_GLN_4.xyz <==
+64
+
+==> TYR_GLN_GLN_5.xyz <==
+64
+
+==> TYR_GLN_HIS_0.xyz <==
+64
+
+==> TYR_GLN_HIS_1.xyz <==
+64
+
+==> TYR_GLN_HIS_2.xyz <==
+64
+
+==> TYR_GLN_HIS_3.xyz <==
+64
+
+==> TYR_GLN_HIS_4.xyz <==
+64
+
+==> TYR_GLN_HIS_5.xyz <==
+64
+
+==> TYR_GLN_MET_0.xyz <==
+64
+
+==> TYR_GLN_MET_1.xyz <==
+64
+
+==> TYR_GLN_MET_2.xyz <==
+64
+
+==> TYR_GLN_MET_3.xyz <==
+64
+
+==> TYR_GLN_MET_4.xyz <==
+64
+
+==> TYR_GLN_MET_5.xyz <==
+64
+
+==> TYR_GLN_TYR_0.xyz <==
+68
+
+==> TYR_GLN_TYR_1.xyz <==
+68
+
+==> TYR_GLN_TYR_2.xyz <==
+68
+
+==> TYR_GLN_TYR_3.xyz <==
+68
+
+==> TYR_GLN_TYR_4.xyz <==
+68
+
+==> TYR_GLN_TYR_5.xyz <==
+68
+
+==> TYR_HIS_GLH_0.xyz <==
+63
+
+==> TYR_HIS_GLH_1.xyz <==
+63
+
+==> TYR_HIS_GLH_2.xyz <==
+63
+
+==> TYR_HIS_GLH_3.xyz <==
+63
+
+==> TYR_HIS_GLH_4.xyz <==
+63
+
+==> TYR_HIS_GLH_5.xyz <==
+63
+
+==> TYR_HIS_GLN_0.xyz <==
+64
+
+==> TYR_HIS_GLN_1.xyz <==
+64
+
+==> TYR_HIS_GLN_2.xyz <==
+64
+
+==> TYR_HIS_GLN_3.xyz <==
+64
+
+==> TYR_HIS_GLN_4.xyz <==
+64
+
+==> TYR_HIS_GLN_5.xyz <==
+64
+
+==> TYR_HIS_HIS_0.xyz <==
+64
+
+==> TYR_HIS_HIS_1.xyz <==
+64
+
+==> TYR_HIS_HIS_2.xyz <==
+64
+
+==> TYR_HIS_HIS_3.xyz <==
+64
+
+==> TYR_HIS_HIS_4.xyz <==
+64
+
+==> TYR_HIS_HIS_5.xyz <==
+64
+
+==> TYR_HIS_MET_0.xyz <==
+64
+
+==> TYR_HIS_MET_1.xyz <==
+64
+
+==> TYR_HIS_MET_2.xyz <==
+64
+
+==> TYR_HIS_MET_3.xyz <==
+64
+
+==> TYR_HIS_MET_4.xyz <==
+64
+
+==> TYR_HIS_MET_5.xyz <==
+64
+
+==> TYR_HIS_TYR_0.xyz <==
+68
+
+==> TYR_HIS_TYR_1.xyz <==
+68
+
+==> TYR_HIS_TYR_2.xyz <==
+68
+
+==> TYR_HIS_TYR_3.xyz <==
+68
+
+==> TYR_HIS_TYR_4.xyz <==
+68
+
+==> TYR_HIS_TYR_5.xyz <==
+68
+
+==> TYR_LEU_GLH_0.xyz <==
+65
+
+==> TYR_LEU_GLH_1.xyz <==
+65
+
+==> TYR_LEU_GLH_2.xyz <==
+65
+
+==> TYR_LEU_GLH_3.xyz <==
+65
+
+==> TYR_LEU_GLH_4.xyz <==
+65
+
+==> TYR_LEU_GLH_5.xyz <==
+65
+
+==> TYR_LEU_GLN_0.xyz <==
+66
+
+==> TYR_LEU_GLN_1.xyz <==
+66
+
+==> TYR_LEU_GLN_2.xyz <==
+66
+
+==> TYR_LEU_GLN_3.xyz <==
+66
+
+==> TYR_LEU_GLN_4.xyz <==
+66
+
+==> TYR_LEU_GLN_5.xyz <==
+66
+
+==> TYR_LEU_HIS_0.xyz <==
+66
+
+==> TYR_LEU_HIS_1.xyz <==
+66
+
+==> TYR_LEU_HIS_2.xyz <==
+66
+
+==> TYR_LEU_HIS_3.xyz <==
+66
+
+==> TYR_LEU_HIS_4.xyz <==
+66
+
+==> TYR_LEU_HIS_5.xyz <==
+66
+
+==> TYR_LEU_MET_0.xyz <==
+66
+
+==> TYR_LEU_MET_1.xyz <==
+66
+
+==> TYR_LEU_MET_2.xyz <==
+66
+
+==> TYR_LEU_MET_3.xyz <==
+66
+
+==> TYR_LEU_MET_4.xyz <==
+66
+
+==> TYR_LEU_MET_5.xyz <==
+66
+
+==> TYR_LEU_TYR_0.xyz <==
+70
+
+==> TYR_LEU_TYR_1.xyz <==
+70
+
+==> TYR_LEU_TYR_2.xyz <==
+70
+
+==> TYR_LEU_TYR_3.xyz <==
+70
+
+==> TYR_LEU_TYR_4.xyz <==
+70
+
+==> TYR_LEU_TYR_5.xyz <==
+70
+
+==> TYR_MET_GLH_0.xyz <==
+63
+
+==> TYR_MET_GLH_1.xyz <==
+63
+
+==> TYR_MET_GLH_2.xyz <==
+63
+
+==> TYR_MET_GLH_3.xyz <==
+63
+
+==> TYR_MET_GLH_4.xyz <==
+63
+
+==> TYR_MET_GLH_5.xyz <==
+63
+
+==> TYR_MET_GLN_0.xyz <==
+64
+
+==> TYR_MET_GLN_1.xyz <==
+64
+
+==> TYR_MET_GLN_2.xyz <==
+64
+
+==> TYR_MET_GLN_3.xyz <==
+64
+
+==> TYR_MET_GLN_4.xyz <==
+64
+
+==> TYR_MET_GLN_5.xyz <==
+64
+
+==> TYR_MET_HIS_0.xyz <==
+64
+
+==> TYR_MET_HIS_1.xyz <==
+64
+
+==> TYR_MET_HIS_2.xyz <==
+64
+
+==> TYR_MET_HIS_3.xyz <==
+64
+
+==> TYR_MET_HIS_4.xyz <==
+64
+
+==> TYR_MET_HIS_5.xyz <==
+64
+
+==> TYR_MET_MET_0.xyz <==
+64
+
+==> TYR_MET_MET_1.xyz <==
+64
+
+==> TYR_MET_MET_2.xyz <==
+64
+
+==> TYR_MET_MET_3.xyz <==
+64
+
+==> TYR_MET_MET_4.xyz <==
+64
+
+==> TYR_MET_MET_5.xyz <==
+64
+
+==> TYR_MET_TYR_0.xyz <==
+68
+
+==> TYR_MET_TYR_1.xyz <==
+68
+
+==> TYR_MET_TYR_2.xyz <==
+68
+
+==> TYR_MET_TYR_3.xyz <==
+68
+
+==> TYR_MET_TYR_4.xyz <==
+68
+
+==> TYR_MET_TYR_5.xyz <==
+68
+
+==> TYR_PRO_GLH_0.xyz <==
+60
+
+==> TYR_PRO_GLH_1.xyz <==
+60
+
+==> TYR_PRO_GLH_2.xyz <==
+60
+
+==> TYR_PRO_GLH_3.xyz <==
+60
+
+==> TYR_PRO_GLH_4.xyz <==
+60
+
+==> TYR_PRO_GLH_5.xyz <==
+60
+
+==> TYR_PRO_GLN_0.xyz <==
+61
+
+==> TYR_PRO_GLN_1.xyz <==
+61
+
+==> TYR_PRO_GLN_2.xyz <==
+61
+
+==> TYR_PRO_GLN_3.xyz <==
+61
+
+==> TYR_PRO_GLN_4.xyz <==
+61
+
+==> TYR_PRO_GLN_5.xyz <==
+61
+
+==> TYR_PRO_HIS_0.xyz <==
+61
+
+==> TYR_PRO_HIS_1.xyz <==
+61
+
+==> TYR_PRO_HIS_2.xyz <==
+61
+
+==> TYR_PRO_HIS_3.xyz <==
+61
+
+==> TYR_PRO_HIS_4.xyz <==
+61
+
+==> TYR_PRO_HIS_5.xyz <==
+61
+
+==> TYR_PRO_MET_0.xyz <==
+61
+
+==> TYR_PRO_MET_1.xyz <==
+61
+
+==> TYR_PRO_MET_2.xyz <==
+61
+
+==> TYR_PRO_MET_3.xyz <==
+61
+
+==> TYR_PRO_MET_4.xyz <==
+61
+
+==> TYR_PRO_MET_5.xyz <==
+61
+
+==> TYR_PRO_TYR_0.xyz <==
+65
+
+==> TYR_PRO_TYR_1.xyz <==
+65
+
+==> TYR_PRO_TYR_2.xyz <==
+65
+
+==> TYR_PRO_TYR_3.xyz <==
+65
+
+==> TYR_PRO_TYR_4.xyz <==
+65
+
+==> TYR_PRO_TYR_5.xyz <==
+65
+
+==> TYR_TRP_GLH_0.xyz <==
+70
+
+==> TYR_TRP_GLH_1.xyz <==
+70
+
+==> TYR_TRP_GLH_2.xyz <==
+70
+
+==> TYR_TRP_GLH_3.xyz <==
+70
+
+==> TYR_TRP_GLH_4.xyz <==
+70
+
+==> TYR_TRP_GLH_5.xyz <==
+70
+
+==> TYR_TRP_GLN_0.xyz <==
+71
+
+==> TYR_TRP_GLN_1.xyz <==
+71
+
+==> TYR_TRP_GLN_2.xyz <==
+71
+
+==> TYR_TRP_GLN_3.xyz <==
+71
+
+==> TYR_TRP_GLN_4.xyz <==
+71
+
+==> TYR_TRP_GLN_5.xyz <==
+71
+
+==> TYR_TRP_HIS_0.xyz <==
+71
+
+==> TYR_TRP_HIS_1.xyz <==
+71
+
+==> TYR_TRP_HIS_2.xyz <==
+71
+
+==> TYR_TRP_HIS_3.xyz <==
+71
+
+==> TYR_TRP_HIS_4.xyz <==
+71
+
+==> TYR_TRP_HIS_5.xyz <==
+71
+
+==> TYR_TRP_MET_0.xyz <==
+71
+
+==> TYR_TRP_MET_1.xyz <==
+71
+
+==> TYR_TRP_MET_2.xyz <==
+71
+
+==> TYR_TRP_MET_3.xyz <==
+71
+
+==> TYR_TRP_MET_4.xyz <==
+71
+
+==> TYR_TRP_MET_5.xyz <==
+71
+
+==> TYR_TRP_TYR_0.xyz <==
+75
+
+==> TYR_TRP_TYR_1.xyz <==
+75
+
+==> TYR_TRP_TYR_2.xyz <==
+75
+
+==> TYR_TRP_TYR_3.xyz <==
+75
+
+==> TYR_TRP_TYR_4.xyz <==
+75
+
+==> TYR_TRP_TYR_5.xyz <==
+75
+
+==> TYR_TYR_GLH_0.xyz <==
+67
+
+==> TYR_TYR_GLH_1.xyz <==
+67
+
+==> TYR_TYR_GLH_2.xyz <==
+67
+
+==> TYR_TYR_GLH_3.xyz <==
+67
+
+==> TYR_TYR_GLH_4.xyz <==
+67
+
+==> TYR_TYR_GLH_5.xyz <==
+67
+
+==> TYR_TYR_GLN_0.xyz <==
+68
+
+==> TYR_TYR_GLN_1.xyz <==
+68
+
+==> TYR_TYR_GLN_2.xyz <==
+68
+
+==> TYR_TYR_GLN_3.xyz <==
+68
+
+==> TYR_TYR_GLN_4.xyz <==
+68
+
+==> TYR_TYR_GLN_5.xyz <==
+68
+
+==> TYR_TYR_HIS_0.xyz <==
+68
+
+==> TYR_TYR_HIS_1.xyz <==
+68
+
+==> TYR_TYR_HIS_2.xyz <==
+68
+
+==> TYR_TYR_HIS_3.xyz <==
+68
+
+==> TYR_TYR_HIS_4.xyz <==
+68
+
+==> TYR_TYR_HIS_5.xyz <==
+68
+
+==> TYR_TYR_MET_0.xyz <==
+68
+
+==> TYR_TYR_MET_1.xyz <==
+68
+
+==> TYR_TYR_MET_2.xyz <==
+68
+
+==> TYR_TYR_MET_3.xyz <==
+68
+
+==> TYR_TYR_MET_4.xyz <==
+68
+
+==> TYR_TYR_MET_5.xyz <==
+68
+
+==> TYR_TYR_TYR_0.xyz <==
+72
+
+==> TYR_TYR_TYR_1.xyz <==
+72
+
+==> TYR_TYR_TYR_2.xyz <==
+72
+
+==> TYR_TYR_TYR_3.xyz <==
+72
+
+==> TYR_TYR_TYR_4.xyz <==
+72
+
+==> TYR_TYR_TYR_5.xyz <==
+72

@@ -1,0 +1,701 @@
+==> APGL_0.xyz <==
+59
+
+==> APGL_1.xyz <==
+59
+
+==> APGL_2.xyz <==
+59
+
+==> APGL_3.xyz <==
+59
+
+==> APGL_4.xyz <==
+59
+
+==> APGL_5.xyz <==
+59
+
+==> CGKRK_0.xyz <==
+95
+
+==> CGKRK_1.xyz <==
+95
+
+==> CGKRK_2.xyz <==
+95
+
+==> CGKRK_3.xyz <==
+95
+
+==> CGKRK_4.xyz <==
+95
+
+==> CGKRK_5.xyz <==
+95
+
+==> CNGRC_0.xyz <==
+76
+
+==> CNGRC_1.xyz <==
+76
+
+==> CNGRC_2.xyz <==
+76
+
+==> CNGRC_3.xyz <==
+76
+
+==> CNGRC_4.xyz <==
+76
+
+==> CNGRC_5.xyz <==
+76
+
+==> CREKA_0.xyz <==
+91
+
+==> CREKA_1.xyz <==
+91
+
+==> CREKA_2.xyz <==
+91
+
+==> CREKA_3.xyz <==
+91
+
+==> CREKA_4.xyz <==
+91
+
+==> CREKA_5.xyz <==
+91
+
+==> CRGDK_0.xyz <==
+85
+
+==> CRGDK_1.xyz <==
+85
+
+==> CRGDK_2.xyz <==
+85
+
+==> CRGDK_3.xyz <==
+85
+
+==> CRGDK_4.xyz <==
+85
+
+==> CRGDK_5.xyz <==
+85
+
+==> DGEA_0.xyz <==
+53
+
+==> DGEA_1.xyz <==
+53
+
+==> DGEA_2.xyz <==
+53
+
+==> DGEA_3.xyz <==
+53
+
+==> DGEA_4.xyz <==
+53
+
+==> DGEA_5.xyz <==
+53
+
+==> FEFEFKEK_0.xyz <==
+158
+
+==> FEFEFKEK_1.xyz <==
+158
+
+==> FEFEFKEK_2.xyz <==
+158
+
+==> FEFEFKEK_3.xyz <==
+158
+
+==> FEFEFKEK_4.xyz <==
+158
+
+==> FEFEFKEK_5.xyz <==
+158
+
+==> FRWWHR_0.xyz <==
+142
+
+==> FRWWHR_1.xyz <==
+142
+
+==> FRWWHR_2.xyz <==
+142
+
+==> FRWWHR_3.xyz <==
+142
+
+==> FRWWHR_4.xyz <==
+142
+
+==> FRWWHR_5.xyz <==
+142
+
+==> GAGAGAGA_0.xyz <==
+77
+
+==> GAGAGAGA_1.xyz <==
+77
+
+==> GAGAGAGA_2.xyz <==
+77
+
+==> GAGAGAGA_3.xyz <==
+77
+
+==> GAGAGAGA_4.xyz <==
+77
+
+==> GAGAGAGA_5.xyz <==
+77
+
+==> GFPGER_0.xyz <==
+96
+
+==> GFPGER_1.xyz <==
+96
+
+==> GFPGER_2.xyz <==
+96
+
+==> GFPGER_3.xyz <==
+96
+
+==> GFPGER_4.xyz <==
+96
+
+==> GFPGER_5.xyz <==
+96
+
+==> GNNQQNY_0.xyz <==
+113
+
+==> GNNQQNY_1.xyz <==
+113
+
+==> GNNQQNY_2.xyz <==
+113
+
+==> GNNQQNY_3.xyz <==
+113
+
+==> GNNQQNY_4.xyz <==
+113
+
+==> GNNQQNY_5.xyz <==
+113
+
+==> GPPGPP_0.xyz <==
+79
+
+==> GPPGPP_1.xyz <==
+79
+
+==> GPPGPP_2.xyz <==
+79
+
+==> GPPGPP_3.xyz <==
+79
+
+==> GPPGPP_4.xyz <==
+79
+
+==> GPPGPP_5.xyz <==
+79
+
+==> GPQGIAG_0.xyz <==
+90
+
+==> GPQGIAG_1.xyz <==
+90
+
+==> GPQGIAG_2.xyz <==
+90
+
+==> GPQGIAG_3.xyz <==
+90
+
+==> GPQGIAG_4.xyz <==
+90
+
+==> GPQGIAG_5.xyz <==
+90
+
+==> HHHHHH_0.xyz <==
+111
+
+==> HHHHHH_1.xyz <==
+111
+
+==> HHHHHH_2.xyz <==
+111
+
+==> HHHHHH_3.xyz <==
+111
+
+==> HHHHHH_4.xyz <==
+111
+
+==> HHHHHH_5.xyz <==
+111
+
+==> IKVAV_0.xyz <==
+92
+
+==> IKVAV_1.xyz <==
+92
+
+==> IKVAV_2.xyz <==
+92
+
+==> IKVAV_3.xyz <==
+92
+
+==> IKVAV_4.xyz <==
+92
+
+==> IKVAV_5.xyz <==
+92
+
+==> KGD_0.xyz <==
+50
+
+==> KGD_1.xyz <==
+50
+
+==> KGD_2.xyz <==
+50
+
+==> KGD_3.xyz <==
+50
+
+==> KGD_4.xyz <==
+50
+
+==> KGD_5.xyz <==
+50
+
+==> KLAK_0.xyz <==
+82
+
+==> KLAK_1.xyz <==
+82
+
+==> KLAK_2.xyz <==
+82
+
+==> KLAK_3.xyz <==
+82
+
+==> KLAK_4.xyz <==
+82
+
+==> KLAK_5.xyz <==
+82
+
+==> KLVFF_0.xyz <==
+106
+
+==> KLVFF_1.xyz <==
+106
+
+==> KLVFF_2.xyz <==
+106
+
+==> KLVFF_3.xyz <==
+106
+
+==> KLVFF_4.xyz <==
+106
+
+==> KLVFF_5.xyz <==
+106
+
+==> KLVFFAE_0.xyz <==
+131
+
+==> KLVFFAE_1.xyz <==
+131
+
+==> KLVFFAE_2.xyz <==
+131
+
+==> KLVFFAE_3.xyz <==
+131
+
+==> KLVFFAE_4.xyz <==
+131
+
+==> KLVFFAE_5.xyz <==
+131
+
+==> KRSR_0.xyz <==
+90
+
+==> KRSR_1.xyz <==
+90
+
+==> KRSR_2.xyz <==
+90
+
+==> KRSR_3.xyz <==
+90
+
+==> KRSR_4.xyz <==
+90
+
+==> KRSR_5.xyz <==
+90
+
+==> LPFFD_0.xyz <==
+94
+
+==> LPFFD_1.xyz <==
+94
+
+==> LPFFD_2.xyz <==
+94
+
+==> LPFFD_3.xyz <==
+94
+
+==> LPFFD_4.xyz <==
+94
+
+==> LPFFD_5.xyz <==
+94
+
+==> NFGAIL_0.xyz <==
+98
+
+==> NFGAIL_1.xyz <==
+98
+
+==> NFGAIL_2.xyz <==
+98
+
+==> NFGAIL_3.xyz <==
+98
+
+==> NFGAIL_4.xyz <==
+98
+
+==> NFGAIL_5.xyz <==
+98
+
+==> PDSGR_0.xyz <==
+77
+
+==> PDSGR_1.xyz <==
+77
+
+==> PDSGR_2.xyz <==
+77
+
+==> PDSGR_3.xyz <==
+77
+
+==> PDSGR_4.xyz <==
+77
+
+==> PDSGR_5.xyz <==
+77
+
+==> PHSRN_0.xyz <==
+89
+
+==> PHSRN_1.xyz <==
+89
+
+==> PHSRN_2.xyz <==
+89
+
+==> PHSRN_3.xyz <==
+89
+
+==> PHSRN_4.xyz <==
+89
+
+==> PHSRN_5.xyz <==
+89
+
+==> REDV_0.xyz <==
+76
+
+==> REDV_1.xyz <==
+76
+
+==> REDV_2.xyz <==
+76
+
+==> REDV_3.xyz <==
+76
+
+==> REDV_4.xyz <==
+76
+
+==> REDV_5.xyz <==
+76
+
+==> RGD_0.xyz <==
+52
+
+==> RGD_1.xyz <==
+52
+
+==> RGD_2.xyz <==
+52
+
+==> RGD_3.xyz <==
+52
+
+==> RGD_4.xyz <==
+52
+
+==> RGD_5.xyz <==
+52
+
+==> RGDS_0.xyz <==
+63
+
+==> RGDS_1.xyz <==
+63
+
+==> RGDS_2.xyz <==
+63
+
+==> RGDS_3.xyz <==
+63
+
+==> RGDS_4.xyz <==
+63
+
+==> RGDS_5.xyz <==
+63
+
+==> RLGVY_0.xyz <==
+96
+
+==> RLGVY_1.xyz <==
+96
+
+==> RLGVY_2.xyz <==
+96
+
+==> RLGVY_3.xyz <==
+96
+
+==> RLGVY_4.xyz <==
+96
+
+==> RLGVY_5.xyz <==
+96
+
+==> RLNVY_0.xyz <==
+103
+
+==> RLNVY_1.xyz <==
+103
+
+==> RLNVY_2.xyz <==
+103
+
+==> RLNVY_3.xyz <==
+103
+
+==> RLNVY_4.xyz <==
+103
+
+==> RLNVY_5.xyz <==
+103
+
+==> RRWWRF_0.xyz <==
+149
+
+==> RRWWRF_1.xyz <==
+149
+
+==> RRWWRF_2.xyz <==
+149
+
+==> RRWWRF_3.xyz <==
+149
+
+==> RRWWRF_4.xyz <==
+149
+
+==> RRWWRF_5.xyz <==
+149
+
+==> VQIVYK_0.xyz <==
+120
+
+==> VQIVYK_1.xyz <==
+120
+
+==> VQIVYK_2.xyz <==
+120
+
+==> VQIVYK_3.xyz <==
+120
+
+==> VQIVYK_4.xyz <==
+120
+
+==> VQIVYK_5.xyz <==
+120
+
+==> VRN_0.xyz <==
+63
+
+==> VRN_1.xyz <==
+63
+
+==> VRN_2.xyz <==
+63
+
+==> VRN_3.xyz <==
+63
+
+==> VRN_4.xyz <==
+63
+
+==> VRN_5.xyz <==
+63
+
+==> VYIHPF_0.xyz <==
+116
+
+==> VYIHPF_1.xyz <==
+116
+
+==> VYIHPF_2.xyz <==
+116
+
+==> VYIHPF_3.xyz <==
+116
+
+==> VYIHPF_4.xyz <==
+116
+
+==> VYIHPF_5.xyz <==
+116
+
+==> WMNF_0.xyz <==
+84
+
+==> WMNF_1.xyz <==
+84
+
+==> WMNF_2.xyz <==
+84
+
+==> WMNF_3.xyz <==
+84
+
+==> WMNF_4.xyz <==
+84
+
+==> WMNF_5.xyz <==
+84
+
+==> YGGFL_0.xyz <==
+83
+
+==> YGGFL_1.xyz <==
+83
+
+==> YGGFL_2.xyz <==
+83
+
+==> YGGFL_3.xyz <==
+83
+
+==> YGGFL_4.xyz <==
+83
+
+==> YGGFL_5.xyz <==
+83
+
+==> YGGFM_0.xyz <==
+81
+
+==> YGGFM_1.xyz <==
+81
+
+==> YGGFM_2.xyz <==
+81
+
+==> YGGFM_3.xyz <==
+81
+
+==> YGGFM_4.xyz <==
+81
+
+==> YGGFM_5.xyz <==
+81
+
+==> YIGSR_0.xyz <==
+91
+
+==> YIGSR_1.xyz <==
+91
+
+==> YIGSR_2.xyz <==
+91
+
+==> YIGSR_3.xyz <==
+91
+
+==> YIGSR_4.xyz <==
+91
+
+==> YIGSR_5.xyz <==
+91
+
+==> YPFF_0.xyz <==
+84
+
+==> YPFF_1.xyz <==
+84
+
+==> YPFF_2.xyz <==
+84
+
+==> YPFF_3.xyz <==
+84
+
+==> YPFF_4.xyz <==
+84
+
+==> YPFF_5.xyz <==
+84
+
+==> YPWF_0.xyz <==
+88
+
+==> YPWF_1.xyz <==
+88
+
+==> YPWF_2.xyz <==
+88
+
+==> YPWF_3.xyz <==
+88
+
+==> YPWF_4.xyz <==
+88
+
+==> YPWF_5.xyz <==
+88
